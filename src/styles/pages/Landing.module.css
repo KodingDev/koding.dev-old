@@ -1,0 +1,23 @@
+.landingPage {
+  @apply flex h-screen flex-col md:flex-row;
+}
+
+.landingHeader {
+  @apply bg-black flex justify-between flex-row md:flex-col;
+}
+
+.landingBody {
+  @apply px-12 py-6 md:py-12;
+}
+
+.headerLeft {
+  @apply w-full px-12 py-12;
+}
+
+.headerImage {
+  display: block;
+}
+
+.iconRow {
+  @apply flex flex-row py-2 space-x-2;
+}
