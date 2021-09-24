@@ -1,84 +1,139 @@
-import styles from "@/styles/pages/Landing.module.css";
-import { Email, GitHub, MusicNote, Reddit, Twitter } from "@material-ui/icons";
-import Image from "next/image";
-import StellaOC from "../../public/images/stella-oc.png";
 import React from "react";
+import {
+  Box,
+  Center,
+  Flex,
+  Heading,
+  HStack,
+  IconButton,
+  Link,
+  Menu,
+  MenuButton,
+  MenuItem,
+  MenuList,
+  SimpleGrid,
+  Spacer,
+  Text,
+} from "@chakra-ui/react";
+import { FaGithub, FaReddit, FaSpotify, FaTwitter } from "react-icons/fa";
+import { MdEmail, MdHome, MdMenu, MdPhoto } from "react-icons/md";
+import Project from "@/component/project";
 
 // TODO: Art page
 const Index = () => (
-  <div className={styles.landingPage}>
-    <div className={styles.landingHeader}>
-      <div className={styles.headerLeft}>
-        <span className="headline-3">Koding</span>
-        <p className="headline-6">Full stack.</p>
-        <div className={styles.iconRow}>
-          <a className="icon-button" href="mailto:kodingdev@pm.me">
-            <Email />
-          </a>
-          <a
-            className="icon-button"
-            href="https://github.com/KodingDev"
-            target="_blank"
-            rel="noreferrer"
-          >
-            <GitHub />
-          </a>
-          <a
-            className="icon-button"
-            href="https://twitter.com/KodingDev_"
-            target="_blank"
-            rel="noreferrer"
-          >
-            <Twitter />
-          </a>
-          <a
-            className="icon-button"
-            href="https://reddit.com/u/TotallyNotKoding"
-            target="_blank"
-            rel="noreferrer"
-          >
-            <Reddit />
-          </a>
-          <a
-            className="icon-button"
+  <>
+    <Flex p="4" bg="gray.900">
+      <Spacer />
+      <Menu>
+        <MenuButton as={IconButton} icon={<MdMenu />} />
+        <MenuList>
+          <MenuItem icon={<MdHome />}>
+            <Link href="/">Home</Link>
+          </MenuItem>
+          <MenuItem icon={<MdPhoto />}>Art</MenuItem>
+        </MenuList>
+      </Menu>
+    </Flex>
+    <Box p="12" bg="gray.900">
+      <Center>
+        <Heading fontSize="5xl" fontFamily="mono">
+          Koding
+        </Heading>
+      </Center>
+      <Center>
+        <Text fontSize="xl" fontFamily="mono" textColor="gray.400">
+          Full stack.
+        </Text>
+      </Center>
+      <Center>
+        <HStack gap={6} pt="2">
+          <Link href="mailto:kodingdev@pm.me">
+            <IconButton aria-label="Email" icon={<MdEmail />} />
+          </Link>
+          <Link href="https://github.com/KodingDev" target="_blank">
+            <IconButton aria-label="GitHub" icon={<FaGithub />} />
+          </Link>
+          <Link href="https://twitter.com/KodingDev_" target="_blank">
+            <IconButton aria-label="Twitter" icon={<FaTwitter />} />
+          </Link>
+          <Link href="https://reddit.com/u/TotallyNotKoding" target="_blank">
+            <IconButton aria-label="Reddit" icon={<FaReddit />} />
+          </Link>
+          <Link
             href="https://open.spotify.com/user/djitechdude"
             target="_blank"
-            rel="noreferrer"
           >
-            <MusicNote />
-          </a>
-        </div>
-      </div>
-      <div>
-        <Image
-          src={StellaOC}
-          width="598px"
-          height="810px"
-          layout="responsive"
-          className={styles.headerImage}
+            <IconButton aria-label="Spotify" icon={<FaSpotify />} />
+          </Link>
+        </HStack>
+      </Center>
+    </Box>
+    <Box px={{ base: 12, xl: 24 }} py="12">
+      <Heading fontSize="3xl" fontFamily="mono">
+        Projects
+      </Heading>
+      <Text>Check out some of the cool stuff I&apos;m working on!</Text>
+      <SimpleGrid pt={4} columns={{ base: 1, md: 2, xl: 4 }} spacing={4}>
+        <Project
+          name="JetBrains Copilot"
+          description="IDE plugin for the IntelliJ platform which adds support for GitHub Copilot."
+          link="https://github.com/KodingDev/JetBrainsCopilot"
+          tags={["Kotlin", "IntelliJ SDK", "Ktor"]}
         />
-      </div>
-    </div>
-    <div className={styles.landingBody}>
-      <span className="headline-5">About me.</span>
-      <p className="body-1">
-        <b>Hey! 👋</b> I&apos;m Koding and I can&apos;t wait to work with you.
-        I&apos;m experienced with full stack development and also have
-        experience writing scalable and performant code in Java and Kotlin.
-        I&apos;m also well versed in the internals of Minecraft, developing
-        plugins, clients, protocol libraries, and a multitude more. I&apos;ll
-        also be happy to answer any questions or inquiries you have. You can
-        reach me at koding dev at pm dot me.
-      </p>
-      <br />
-      <span className="headline-5">What I do.</span>
-      <p className="body-1">
-        I&apos;m currently working with{" "}
-        <a href="https://katalyst.media">Katalyst Media</a> on{" "}
-        <a href="https://craftadia.com">Craftadia</a>
-      </p>
-    </div>
-  </div>
+        <Project
+          name="CraftLib"
+          description="Wrapper the entire Minecraft codebase as a Java / Kotlin library. Supports protocol, NBT, chat and schematics. 1.7.x - 1.8.x."
+          link="https://github.com/Zerite/CraftLib"
+          tags={["Kotlin", "Minecraft", "Netty", "Reverse Engineering", "Ktor"]}
+        />
+        <Project
+          name="Genshin Dashboard"
+          description="A unified dashboard which parses Genshin data, handling stat calculation, team optimization, etc."
+          link="https://github.com/KodingDev/genshin-dashboard"
+          tags={["Next.js", "TypeScript"]}
+        />
+        <Project
+          name="AniTrack"
+          description="Anime tracking app written using Flutter to update an AniList profile and view show data."
+          link="https://github.com/KodingDev/AniTrack"
+          tags={["Flutter", "Dart", "GraphQL", "OAuth2"]}
+        />
+        <Project
+          name="koding.dev"
+          description="Personal website, written using NextJS + Chakra in TS."
+          link="https://github.com/KodingDev/koding.dev"
+          tags={["Next.js", "Chakra-UI", "TypeScript"]}
+        />
+        <Project
+          name="Lunar"
+          description="A multipurpose, highly configurable Discord bot with a powerful web UI."
+          link=""
+          tags={["Kotlin", "MongoDB", "Sentry", "Next.js", "Material UI"]}
+        />
+
+        <Project
+          name="Craftadia"
+          description="A survival Minecraft server, built on a scalable in-house deployment system to provide a smooth player experience. Developed with Katalyst Media."
+          link="https://craftadia.com/"
+          tags={[
+            "Java",
+            "Kotlin",
+            "MariaDB",
+            "Redis",
+            "Spigot",
+            "Pterodactyl Panel",
+            "Ktor",
+          ]}
+        />
+        <Project
+          name="Origins Enhanced"
+          description="A partnered QOL mod with Origin Realms, fixing inconsistencies with the vanilla client and improving the player experience. Developed with Piston Solutions."
+          link="https://originrealms.com/enhanced"
+          tags={["Java", "Fabric", "Forge", "Networking"]}
+        />
+      </SimpleGrid>
+    </Box>
+  </>
 );
 
 export default Index;
