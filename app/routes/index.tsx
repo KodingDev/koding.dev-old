@@ -17,9 +17,10 @@ import {
 } from "@chakra-ui/react";
 import { FaGithub, FaReddit, FaSpotify, FaTwitter } from "react-icons/fa";
 import { MdEmail, MdHome, MdMenu, MdPhoto } from "react-icons/md";
-import Project from "@/component/project";
+import Project from "~/component/project";
 
 // TODO: Art page
+// TODO: Genshin pages
 const Index = () => (
   <>
     <Flex p="4" bg="gray.900">
@@ -36,12 +37,10 @@ const Index = () => (
     </Flex>
     <Box p="12" bg="gray.900">
       <Center>
-        <Heading fontSize="5xl" fontFamily="mono">
-          Koding
-        </Heading>
+        <Heading fontSize="5xl">Koding</Heading>
       </Center>
       <Center>
-        <Text fontSize="xl" fontFamily="mono" textColor="gray.400">
+        <Text fontSize="xl" textColor="gray.400">
           Full stack.
         </Text>
       </Center>
@@ -69,9 +68,7 @@ const Index = () => (
       </Center>
     </Box>
     <Box px={{ base: 12, xl: 24 }} py="12">
-      <Heading fontSize="3xl" fontFamily="mono">
-        Projects
-      </Heading>
+      <Heading fontSize="3xl">Projects</Heading>
       <Text>Check out some of the cool stuff I&apos;m working on!</Text>
       <SimpleGrid pt={4} columns={{ base: 1, md: 2, xl: 4 }} spacing={4}>
         <Project

@@ -1,34 +1,37 @@
 {
+  "private": true,
   "name": "koding.dev",
-  "version": "1.0.0",
-  "license": "MIT",
+  "description": "",
+  "license": "",
   "scripts": {
-    "dev": "next",
-    "build": "next build",
-    "start": "next start",
-    "lint:fix": "eslint src --fix",
-    "lint:test": "eslint src",
-    "prettier:fix": "prettier \"src/**/*.ts(x)?\" --write",
-    "prettier:test": "prettier \"src/**/*.ts(x)?\" --list-different"
+    "build": "remix build",
+    "dev": "remix dev",
+    "postinstall": "remix setup node",
+    "lint:fix": "eslint app --fix",
+    "lint:test": "eslint app",
+    "prettier:fix": "prettier \"app/**/*.ts(x)?\" --write",
+    "prettier:test": "prettier \"app/**/*.ts(x)?\" --list-different"
   },
   "dependencies": {
     "@chakra-ui/react": "^1.6.8",
+    "@emotion/cache": "^11.7.1",
     "@emotion/react": "^11",
+    "@emotion/server": "^11.4.0",
     "@emotion/styled": "^11",
-    "@next/bundle-analyzer": "^11.1.0",
+    "@remix-run/react": "^1.1.1",
+    "@remix-run/serve": "^1.1.1",
+    "@remix-run/vercel": "^1.1.1",
     "autoprefixer": "^10.3.3",
     "framer-motion": "^4",
-    "next": "^11.1.0",
-    "next-compose-plugins": "^2.2.1",
-    "nprogress": "^0.2.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "react-icons": "^4.2.0"
+    "react-icons": "^4.2.0",
+    "remix": "^1.1.1"
   },
   "devDependencies": {
+    "@remix-run/dev": "^1.1.1",
     "@types/lodash": "^4.14.172",
     "@types/node": "^16.7.2",
-    "@types/nprogress": "^0.2.0",
     "@types/react": "^17.0.19",
     "@types/react-dom": "^17.0.9",
     "@typescript-eslint/eslint-plugin": "^4.29.3",
@@ -39,5 +42,9 @@
     "eslint-plugin-react": "^7.24.0",
     "prettier": "^2.3.2",
     "typescript": "^4.4.2"
-  }
+  },
+  "engines": {
+    "node": ">=14"
+  },
+  "sideEffects": false
 }

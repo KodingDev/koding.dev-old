@@ -36,6 +36,7 @@ module.exports = {
         "react/prop-types": "off",
         "react/jsx-curly-brace-presence": 2,
         "react/display-name": "off",
+        "react/react-in-jsx-scope": "off",
       },
     },
   ],
