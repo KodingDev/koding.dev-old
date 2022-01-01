@@ -1,72 +1,40 @@
 import React from "react";
-import {
-  Box,
-  Center,
-  Flex,
-  Heading,
-  HStack,
-  IconButton,
-  Link,
-  Menu,
-  MenuButton,
-  MenuItem,
-  MenuList,
-  SimpleGrid,
-  Spacer,
-  Text,
-} from "@chakra-ui/react";
-import { FaGithub, FaReddit, FaSpotify, FaTwitter } from "react-icons/fa";
-import { MdEmail, MdHome, MdMenu, MdPhoto } from "react-icons/md";
+import { Box, Heading, HStack, SimpleGrid, Text } from "@chakra-ui/react";
 import Project from "~/component/project";
+import { HeaderNavBar, Layout } from "~/component/layout";
+import { FaGithub, FaTwitter } from "react-icons/fa";
+
+const PageHeader = () => {
+  return (
+    <>
+      <Heading fontSize="5xl">Yo! I&apos;m Koding!</Heading>
+      <Text fontSize="m" textColor="gray.600">
+        I&apos;m an experienced software engineer with 7+ years of experience in
+        the gaming industry.
+      </Text>
+      <HStack pt="4" gap="4">
+        <a href="https://github.com/Zerite" target="_blank" rel="noreferrer">
+          <FaGithub size="25" />
+        </a>
+        <a
+          href="https://twitter.com/ZeriteDev"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <FaTwitter size="25" />
+        </a>
+      </HStack>
+    </>
+  );
+};
 
 // TODO: Art page
 // TODO: Genshin pages
 const Index = () => (
-  <>
-    <Flex p="4" bg="gray.900">
-      <Spacer />
-      <Menu>
-        <MenuButton as={IconButton} icon={<MdMenu />} />
-        <MenuList>
-          <MenuItem icon={<MdHome />}>
-            <Link href="/">Home</Link>
-          </MenuItem>
-          <MenuItem icon={<MdPhoto />}>Art</MenuItem>
-        </MenuList>
-      </Menu>
-    </Flex>
-    <Box p="12" bg="gray.900">
-      <Center>
-        <Heading fontSize="5xl">Koding</Heading>
-      </Center>
-      <Center>
-        <Text fontSize="xl" textColor="gray.400">
-          Full stack.
-        </Text>
-      </Center>
-      <Center>
-        <HStack gap={6} pt="2">
-          <Link href="mailto:kodingdev@pm.me">
-            <IconButton aria-label="Email" icon={<MdEmail />} />
-          </Link>
-          <Link href="https://github.com/KodingDev" target="_blank">
-            <IconButton aria-label="GitHub" icon={<FaGithub />} />
-          </Link>
-          <Link href="https://twitter.com/KodingDev_" target="_blank">
-            <IconButton aria-label="Twitter" icon={<FaTwitter />} />
-          </Link>
-          <Link href="https://reddit.com/u/TotallyNotKoding" target="_blank">
-            <IconButton aria-label="Reddit" icon={<FaReddit />} />
-          </Link>
-          <Link
-            href="https://open.spotify.com/user/djitechdude"
-            target="_blank"
-          >
-            <IconButton aria-label="Spotify" icon={<FaSpotify />} />
-          </Link>
-        </HStack>
-      </Center>
-    </Box>
+  <Layout>
+    <HeaderNavBar>
+      <PageHeader />
+    </HeaderNavBar>
     <Box px={{ base: 12, xl: 24 }} py="12">
       <Heading fontSize="3xl">Projects</Heading>
       <Text>Check out some of the cool stuff I&apos;m working on!</Text>
@@ -130,7 +98,7 @@ const Index = () => (
         />
       </SimpleGrid>
     </Box>
-  </>
+  </Layout>
 );
 
 export default Index;

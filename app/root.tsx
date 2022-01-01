@@ -1,5 +1,6 @@
 import {
   Links,
+  LinksFunction,
   LiveReload,
   Meta,
   MetaFunction,
@@ -8,6 +9,15 @@ import {
   ScrollRestoration,
 } from "remix";
 import { ChakraProvider, extendTheme } from "@chakra-ui/react";
+import Stylesheet from "~/styles/index.css";
+
+// noinspection JSUnusedGlobalSymbols
+export const links: LinksFunction = () => [
+  {
+    rel: "stylesheet",
+    href: Stylesheet,
+  },
+];
 
 const theme = extendTheme({
   colors: {
@@ -30,22 +40,22 @@ const theme = extendTheme({
 });
 
 export const meta: MetaFunction = () => {
-  const title = "Zerite Development";
+  const title = "Koding";
   const description =
-    "A team of passionate developers, innovating in the gaming space.";
+    "An experienced software engineer with 7+ years of experience in the gaming industry.";
   return {
     title,
     description,
     "og:title": title,
-    "og:image": "/assets/banner.png",
+    "og:image": "/assets/banner.webp",
     "og:color": "#101010",
     "og:type": "object",
     "og:site_name": title,
-    "og:url": "https://zerite.dev",
+    "og:url": "https://koding.dev",
     "twitter:card": "summary_large_image",
-    "twitter:site": "@zeritedev",
+    "twitter:site": "@KodingDev_",
     "twitter:description": description,
-    "twitter:image": "/assets/banner.png",
+    "twitter:image": "/assets/banner.webp",
   };
 };
 
