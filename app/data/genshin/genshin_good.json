@@ -1,0 +1,8496 @@
+{
+  "format": "GOOD",
+  "version": 1,
+  "source": "Inventory_Kamera",
+  "weapons": [
+    {
+      "key": "Rust",
+      "level": 80,
+      "ascension": 5,
+      "refinement": 2,
+      "location": "Yoimiya",
+      "lock": false
+    },
+    {
+      "key": "TheCatch",
+      "level": 80,
+      "ascension": 5,
+      "refinement": 1,
+      "location": "RaidenShogun",
+      "lock": false
+    },
+    {
+      "key": "LuxuriousSeaLord",
+      "level": 80,
+      "ascension": 5,
+      "refinement": 5,
+      "location": "Eula",
+      "lock": false
+    },
+    {
+      "key": "DodocoTales",
+      "level": 70,
+      "ascension": 5,
+      "refinement": 5,
+      "location": "Yanfei",
+      "lock": false
+    },
+    {
+      "key": "FavoniusLance",
+      "level": 70,
+      "ascension": 5,
+      "refinement": 1,
+      "location": "Thoma",
+      "lock": false
+    },
+    {
+      "key": "PrototypeRancour",
+      "level": 70,
+      "ascension": 5,
+      "refinement": 1,
+      "location": "Bennett",
+      "lock": false
+    },
+    {
+      "key": "TheWidsith",
+      "level": 60,
+      "ascension": 3,
+      "refinement": 1,
+      "location": "Mona",
+      "lock": false
+    },
+    {
+      "key": "FavoniusWarbow",
+      "level": 50,
+      "ascension": 2,
+      "refinement": 1,
+      "location": "Diona",
+      "lock": false
+    },
+    {
+      "key": "DragonsBane",
+      "level": 50,
+      "ascension": 2,
+      "refinement": 1,
+      "location": "Xiangling",
+      "lock": false
+    },
+    {
+      "key": "EyeOfPerception",
+      "level": 40,
+      "ascension": 2,
+      "refinement": 1,
+      "location": "Barbara",
+      "lock": false
+    },
+    {
+      "key": "SacrificialGreatsword",
+      "level": 40,
+      "ascension": 2,
+      "refinement": 1,
+      "location": "Chongyun",
+      "lock": false
+    },
+    {
+      "key": "PrototypeRancour",
+      "level": 40,
+      "ascension": 2,
+      "refinement": 1,
+      "location": "Xingqiu",
+      "lock": false
+    },
+    {
+      "key": "SacrificialBow",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "SacrificialFragments",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "SacrificialFragments",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "SacrificialFragments",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "TheWidsith",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "TheWidsith",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "FavoniusCodex",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "DragonspineSpear",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "FavoniusLance",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "PrototypeArchaic",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "Rainslasher",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "SacrificialGreatsword",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "TheBell",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "TheBell",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "FavoniusGreatsword",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "CinnabarSpindle",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 5,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "SacrificialSword",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "SacrificialSword",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "TheFlute",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "SacrificialSword",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "FavoniusSword",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "SkyriderSword",
+      "level": 50,
+      "ascension": 2,
+      "refinement": 5,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "BlackTassel",
+      "level": 20,
+      "ascension": 1,
+      "refinement": 5,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "FerrousShadow",
+      "level": 20,
+      "ascension": 1,
+      "refinement": 4,
+      "location": "Razor",
+      "lock": false
+    },
+    {
+      "key": "TravelersHandySword",
+      "level": 6,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "Kaeya",
+      "lock": false
+    },
+    {
+      "key": "RecurveBow",
+      "level": 5,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "EmeraldOrb",
+      "level": 4,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "Lisa",
+      "lock": false
+    },
+    {
+      "key": "Slingshot",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "Slingshot",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "Slingshot",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "Slingshot",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "Slingshot",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "Slingshot",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "Slingshot",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "SharpshootersOath",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "SharpshootersOath",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "SharpshootersOath",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "SharpshootersOath",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "SharpshootersOath",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "RavenBow",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "RavenBow",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "RavenBow",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "RavenBow",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "RavenBow",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "RavenBow",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "TwinNephrite",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "EmeraldOrb",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "EmeraldOrb",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "EmeraldOrb",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "EmeraldOrb",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "ThrillingTalesOfDragonSlayers",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "ThrillingTalesOfDragonSlayers",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "ThrillingTalesOfDragonSlayers",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "ThrillingTalesOfDragonSlayers",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "ThrillingTalesOfDragonSlayers",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "MagicGuide",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "MagicGuide",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "MagicGuide",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "MagicGuide",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "MagicGuide",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "BlackTassel",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "BlackTassel",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "DebateClub",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "DebateClub",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "DebateClub",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "DebateClub",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "DebateClub",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "BloodtaintedGreatsword",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "BloodtaintedGreatsword",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "BloodtaintedGreatsword",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "BloodtaintedGreatsword",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "BloodtaintedGreatsword",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "BloodtaintedGreatsword",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "BloodtaintedGreatsword",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "FerrousShadow",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "FerrousShadow",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "FerrousShadow",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "SkyriderSword",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "SkyriderSword",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "SkyriderSword",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "SkyriderSword",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "SkyriderSword",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "SkyriderSword",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "SkyriderSword",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "SkyriderSword",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "SkyriderSword",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "SkyriderSword",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "HarbingerOfDawn",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "HarbingerOfDawn",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "HarbingerOfDawn",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "HarbingerOfDawn",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "HarbingerOfDawn",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "HarbingerOfDawn",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "HarbingerOfDawn",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "HarbingerOfDawn",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "HarbingerOfDawn",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "HarbingerOfDawn",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "HarbingerOfDawn",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "HarbingerOfDawn",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "HarbingerOfDawn",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "CoolSteel",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "CoolSteel",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "CoolSteel",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "CoolSteel",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "CoolSteel",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "CoolSteel",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "CoolSteel",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "CoolSteel",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "CoolSteel",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "CoolSteel",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "CoolSteel",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "CoolSteel",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "CoolSteel",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "CoolSteel",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "CoolSteel",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "CoolSteel",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "CoolSteel",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "CoolSteel",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "CoolSteel",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "CoolSteel",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "CoolSteel",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "",
+      "lock": false
+    },
+    {
+      "key": "DullBlade",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "Keqing",
+      "lock": false
+    },
+    {
+      "key": "ApprenticesNotes",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "Klee",
+      "lock": false
+    },
+    {
+      "key": "HuntersBow",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "Tartaglia",
+      "lock": false
+    },
+    {
+      "key": "WasterGreatsword",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "Sayu",
+      "lock": false
+    },
+    {
+      "key": "WasterGreatsword",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "Diluc",
+      "lock": false
+    },
+    {
+      "key": "WasterGreatsword",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "Noelle",
+      "lock": false
+    },
+    {
+      "key": "ApprenticesNotes",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "Sucrose",
+      "lock": false
+    },
+    {
+      "key": "BeginnersProtector",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "Rosaria",
+      "lock": false
+    },
+    {
+      "key": "HuntersBow",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "Amber",
+      "lock": false
+    },
+    {
+      "key": "HuntersBow",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "Fischl",
+      "lock": false
+    },
+    {
+      "key": "DullBlade",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "Traveler",
+      "lock": false
+    },
+    {
+      "key": "HuntersBow",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "Aloy",
+      "lock": false
+    },
+    {
+      "key": "HuntersBow",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "Gorou",
+      "lock": false
+    },
+    {
+      "key": "ApprenticesNotes",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "Ningguang",
+      "lock": false
+    },
+    {
+      "key": "HuntersBow",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "KujouSara",
+      "lock": false
+    },
+    {
+      "key": "WasterGreatsword",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "Beidou",
+      "lock": false
+    },
+    {
+      "key": "WasterGreatsword",
+      "level": 1,
+      "ascension": 0,
+      "refinement": 1,
+      "location": "Xinyan",
+      "lock": false
+    }
+  ],
+  "artifacts": [
+    {
+      "setKey": "EmblemOfSeveredFate",
+      "slotKey": "plume",
+      "rarity": 5,
+      "mainStatKey": "atk",
+      "level": 20,
+      "substats": [
+        {
+          "key": "critRate_",
+          "value": 3.9
+        },
+        {
+          "key": "def",
+          "value": 37.0
+        },
+        {
+          "key": "critDMG_",
+          "value": 12.4
+        },
+        {
+          "key": "enerRech_",
+          "value": 19.4
+        }
+      ],
+      "location": "RaidenShogun",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 0
+    },
+    {
+      "setKey": "EmblemOfSeveredFate",
+      "slotKey": "sands",
+      "rarity": 5,
+      "mainStatKey": "eleMas",
+      "level": 20,
+      "substats": [
+        {
+          "key": "hp_",
+          "value": 5.8
+        },
+        {
+          "key": "critRate_",
+          "value": 3.1
+        },
+        {
+          "key": "def",
+          "value": 39.0
+        },
+        {
+          "key": "atk",
+          "value": 60.0
+        }
+      ],
+      "location": "RaidenShogun",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 1
+    },
+    {
+      "setKey": "EmblemOfSeveredFate",
+      "slotKey": "goblet",
+      "rarity": 5,
+      "mainStatKey": "atk_",
+      "level": 20,
+      "substats": [
+        {
+          "key": "enerRech_",
+          "value": 20.7
+        },
+        {
+          "key": "def",
+          "value": 23.0
+        },
+        {
+          "key": "atk",
+          "value": 29.0
+        },
+        {
+          "key": "def_",
+          "value": 5.8
+        }
+      ],
+      "location": "RaidenShogun",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 2
+    },
+    {
+      "setKey": "ShimenawasReminiscence",
+      "slotKey": "goblet",
+      "rarity": 5,
+      "mainStatKey": "atk_",
+      "level": 20,
+      "substats": [
+        {
+          "key": "eleMas",
+          "value": 37.0
+        },
+        {
+          "key": "critDMG_",
+          "value": 5.4
+        },
+        {
+          "key": "critRate_",
+          "value": 5.8
+        },
+        {
+          "key": "atk",
+          "value": 56.0
+        }
+      ],
+      "location": "Yoimiya",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 3
+    },
+    {
+      "setKey": "PaleFlame",
+      "slotKey": "plume",
+      "rarity": 5,
+      "mainStatKey": "atk",
+      "level": 20,
+      "substats": [
+        {
+          "key": "eleMas",
+          "value": 54.0
+        },
+        {
+          "key": "enerRech_",
+          "value": 9.7
+        },
+        {
+          "key": "critRate_",
+          "value": 3.5
+        },
+        {
+          "key": "hp",
+          "value": 568.0
+        }
+      ],
+      "location": "Eula",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 4
+    },
+    {
+      "setKey": "EmblemOfSeveredFate",
+      "slotKey": "flower",
+      "rarity": 5,
+      "mainStatKey": "hp",
+      "level": 16,
+      "substats": [
+        {
+          "key": "critDMG_",
+          "value": 5.4
+        },
+        {
+          "key": "critRate_",
+          "value": 6.2
+        },
+        {
+          "key": "def_",
+          "value": 7.3
+        },
+        {
+          "key": "enerRech_",
+          "value": 18.1
+        }
+      ],
+      "location": "RaidenShogun",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 5
+    },
+    {
+      "setKey": "GladiatorsFinale",
+      "slotKey": "sands",
+      "rarity": 5,
+      "mainStatKey": "atk_",
+      "level": 16,
+      "substats": [
+        {
+          "key": "atk",
+          "value": 51.0
+        },
+        {
+          "key": "enerRech_",
+          "value": 5.2
+        },
+        {
+          "key": "def",
+          "value": 39.0
+        },
+        {
+          "key": "def_",
+          "value": 5.8
+        }
+      ],
+      "location": "Eula",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 6
+    },
+    {
+      "setKey": "GladiatorsFinale",
+      "slotKey": "goblet",
+      "rarity": 5,
+      "mainStatKey": "atk_",
+      "level": 15,
+      "substats": [
+        {
+          "key": "def_",
+          "value": 6.6
+        },
+        {
+          "key": "def",
+          "value": 44.0
+        },
+        {
+          "key": "atk",
+          "value": 14.0
+        },
+        {
+          "key": "hp_",
+          "value": 10.5
+        }
+      ],
+      "location": "Eula",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 7
+    },
+    {
+      "setKey": "ShimenawasReminiscence",
+      "slotKey": "plume",
+      "rarity": 5,
+      "mainStatKey": "atk",
+      "level": 12,
+      "substats": [
+        {
+          "key": "def_",
+          "value": 6.6
+        },
+        {
+          "key": "atk_",
+          "value": 11.1
+        },
+        {
+          "key": "critRate_",
+          "value": 6.2
+        },
+        {
+          "key": "enerRech_",
+          "value": 11.7
+        }
+      ],
+      "location": "Yoimiya",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 8
+    },
+    {
+      "setKey": "WanderersTroupe",
+      "slotKey": "goblet",
+      "rarity": 5,
+      "mainStatKey": "pyro_dmg_",
+      "level": 12,
+      "substats": [
+        {
+          "key": "eleMas",
+          "value": 63.0
+        },
+        {
+          "key": "atk",
+          "value": 18.0
+        },
+        {
+          "key": "enerRech_",
+          "value": 4.5
+        },
+        {
+          "key": "hp",
+          "value": 239.0
+        }
+      ],
+      "location": "Yanfei",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 9
+    },
+    {
+      "setKey": "WanderersTroupe",
+      "slotKey": "goblet",
+      "rarity": 5,
+      "mainStatKey": "pyro_dmg_",
+      "level": 10,
+      "substats": [
+        {
+          "key": "hp",
+          "value": 209.0
+        },
+        {
+          "key": "atk_",
+          "value": 4.1
+        },
+        {
+          "key": "def_",
+          "value": 10.9
+        },
+        {
+          "key": "atk",
+          "value": 14.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 10
+    },
+    {
+      "setKey": "GladiatorsFinale",
+      "slotKey": "plume",
+      "rarity": 5,
+      "mainStatKey": "atk",
+      "level": 10,
+      "substats": [
+        {
+          "key": "atk_",
+          "value": 10.5
+        },
+        {
+          "key": "def",
+          "value": 21.0
+        },
+        {
+          "key": "def_",
+          "value": 6.6
+        },
+        {
+          "key": "enerRech_",
+          "value": 6.5
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 11
+    },
+    {
+      "setKey": "ShimenawasReminiscence",
+      "slotKey": "flower",
+      "rarity": 5,
+      "mainStatKey": "hp",
+      "level": 8,
+      "substats": [
+        {
+          "key": "atk",
+          "value": 35.0
+        },
+        {
+          "key": "critRate_",
+          "value": 3.9
+        },
+        {
+          "key": "critDMG_",
+          "value": 7.0
+        },
+        {
+          "key": "def",
+          "value": 19.0
+        }
+      ],
+      "location": "Yoimiya",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 12
+    },
+    {
+      "setKey": "BloodstainedChivalry",
+      "slotKey": "circlet",
+      "rarity": 5,
+      "mainStatKey": "atk_",
+      "level": 8,
+      "substats": [
+        {
+          "key": "eleMas",
+          "value": 40.0
+        },
+        {
+          "key": "hp_",
+          "value": 5.3
+        },
+        {
+          "key": "critRate_",
+          "value": 2.7
+        },
+        {
+          "key": "hp",
+          "value": 269.0
+        }
+      ],
+      "location": "Eula",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 13
+    },
+    {
+      "setKey": "NoblesseOblige",
+      "slotKey": "sands",
+      "rarity": 5,
+      "mainStatKey": "atk_",
+      "level": 8,
+      "substats": [
+        {
+          "key": "critDMG_",
+          "value": 7.0
+        },
+        {
+          "key": "enerRech_",
+          "value": 9.1
+        },
+        {
+          "key": "hp",
+          "value": 239.0
+        },
+        {
+          "key": "def_",
+          "value": 6.6
+        }
+      ],
+      "location": "Bennett",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 14
+    },
+    {
+      "setKey": "NoblesseOblige",
+      "slotKey": "circlet",
+      "rarity": 5,
+      "mainStatKey": "critRate_",
+      "level": 8,
+      "substats": [
+        {
+          "key": "enerRech_",
+          "value": 10.4
+        },
+        {
+          "key": "hp",
+          "value": 299.0
+        },
+        {
+          "key": "atk",
+          "value": 19.0
+        },
+        {
+          "key": "critDMG_",
+          "value": 7.0
+        }
+      ],
+      "location": "Bennett",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 15
+    },
+    {
+      "setKey": "WanderersTroupe",
+      "slotKey": "plume",
+      "rarity": 5,
+      "mainStatKey": "atk",
+      "level": 6,
+      "substats": [
+        {
+          "key": "critDMG_",
+          "value": 6.2
+        },
+        {
+          "key": "atk_",
+          "value": 4.7
+        },
+        {
+          "key": "eleMas",
+          "value": 21.0
+        },
+        {
+          "key": "enerRech_",
+          "value": 11.7
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 16
+    },
+    {
+      "setKey": "PaleFlame",
+      "slotKey": "flower",
+      "rarity": 5,
+      "mainStatKey": "hp",
+      "level": 5,
+      "substats": [
+        {
+          "key": "def_",
+          "value": 5.1
+        },
+        {
+          "key": "enerRech_",
+          "value": 6.5
+        },
+        {
+          "key": "eleMas",
+          "value": 21.0
+        },
+        {
+          "key": "atk",
+          "value": 18.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 17
+    },
+    {
+      "setKey": "PaleFlame",
+      "slotKey": "flower",
+      "rarity": 5,
+      "mainStatKey": "hp",
+      "level": 4,
+      "substats": [
+        {
+          "key": "eleMas",
+          "value": 23.0
+        },
+        {
+          "key": "atk",
+          "value": 19.0
+        },
+        {
+          "key": "hp_",
+          "value": 4.7
+        },
+        {
+          "key": "critDMG_",
+          "value": 12.4
+        }
+      ],
+      "location": "Eula",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 18
+    },
+    {
+      "setKey": "PaleFlame",
+      "slotKey": "flower",
+      "rarity": 5,
+      "mainStatKey": "hp",
+      "level": 4,
+      "substats": [
+        {
+          "key": "critRate_",
+          "value": 3.1
+        },
+        {
+          "key": "def",
+          "value": 23.0
+        },
+        {
+          "key": "atk",
+          "value": 16.0
+        },
+        {
+          "key": "def_",
+          "value": 5.1
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 19
+    },
+    {
+      "setKey": "GladiatorsFinale",
+      "slotKey": "plume",
+      "rarity": 5,
+      "mainStatKey": "atk",
+      "level": 4,
+      "substats": [
+        {
+          "key": "eleMas",
+          "value": 23.0
+        },
+        {
+          "key": "enerRech_",
+          "value": 5.2
+        },
+        {
+          "key": "hp",
+          "value": 299.0
+        },
+        {
+          "key": "atk_",
+          "value": 4.1
+        }
+      ],
+      "location": "Diona",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 20
+    },
+    {
+      "setKey": "EmblemOfSeveredFate",
+      "slotKey": "flower",
+      "rarity": 5,
+      "mainStatKey": "hp",
+      "level": 0,
+      "substats": [
+        {
+          "key": "critRate_",
+          "value": 2.7
+        },
+        {
+          "key": "atk_",
+          "value": 5.8
+        },
+        {
+          "key": "critDMG_",
+          "value": 5.4
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 21
+    },
+    {
+      "setKey": "EmblemOfSeveredFate",
+      "slotKey": "flower",
+      "rarity": 5,
+      "mainStatKey": "hp",
+      "level": 0,
+      "substats": [
+        {
+          "key": "hp_",
+          "value": 4.7
+        },
+        {
+          "key": "atk_",
+          "value": 5.3
+        },
+        {
+          "key": "eleMas",
+          "value": 23.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 22
+    },
+    {
+      "setKey": "EmblemOfSeveredFate",
+      "slotKey": "sands",
+      "rarity": 5,
+      "mainStatKey": "atk_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "hp",
+          "value": 239.0
+        },
+        {
+          "key": "def_",
+          "value": 5.8
+        },
+        {
+          "key": "critDMG_",
+          "value": 7.8
+        },
+        {
+          "key": "def",
+          "value": 23.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 23
+    },
+    {
+      "setKey": "EmblemOfSeveredFate",
+      "slotKey": "goblet",
+      "rarity": 5,
+      "mainStatKey": "def_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "hp",
+          "value": 299.0
+        },
+        {
+          "key": "eleMas",
+          "value": 19.0
+        },
+        {
+          "key": "atk",
+          "value": 14.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 25
+    },
+    {
+      "setKey": "EmblemOfSeveredFate",
+      "slotKey": "sands",
+      "rarity": 5,
+      "mainStatKey": "enerRech_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "critDMG_",
+          "value": 6.2
+        },
+        {
+          "key": "critRate_",
+          "value": 3.9
+        },
+        {
+          "key": "atk",
+          "value": 14.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 24
+    },
+    {
+      "setKey": "EmblemOfSeveredFate",
+      "slotKey": "goblet",
+      "rarity": 5,
+      "mainStatKey": "hp_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "atk",
+          "value": 19.0
+        },
+        {
+          "key": "hp",
+          "value": 209.0
+        },
+        {
+          "key": "def",
+          "value": 19.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 26
+    },
+    {
+      "setKey": "EmblemOfSeveredFate",
+      "slotKey": "goblet",
+      "rarity": 5,
+      "mainStatKey": "def_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "hp",
+          "value": 269.0
+        },
+        {
+          "key": "def",
+          "value": 19.0
+        },
+        {
+          "key": "atk_",
+          "value": 5.8
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 27
+    },
+    {
+      "setKey": "EmblemOfSeveredFate",
+      "slotKey": "circlet",
+      "rarity": 5,
+      "mainStatKey": "atk_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "enerRech_",
+          "value": 4.5
+        },
+        {
+          "key": "atk",
+          "value": 16.0
+        },
+        {
+          "key": "hp",
+          "value": 269.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 28
+    },
+    {
+      "setKey": "EmblemOfSeveredFate",
+      "slotKey": "circlet",
+      "rarity": 5,
+      "mainStatKey": "atk_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "hp",
+          "value": 269.0
+        },
+        {
+          "key": "critRate_",
+          "value": 3.9
+        },
+        {
+          "key": "enerRech_",
+          "value": 5.8
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 29
+    },
+    {
+      "setKey": "EmblemOfSeveredFate",
+      "slotKey": "circlet",
+      "rarity": 5,
+      "mainStatKey": "eleMas",
+      "level": 0,
+      "substats": [
+        {
+          "key": "def_",
+          "value": 6.6
+        },
+        {
+          "key": "hp",
+          "value": 269.0
+        },
+        {
+          "key": "atk",
+          "value": 14.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 30
+    },
+    {
+      "setKey": "ShimenawasReminiscence",
+      "slotKey": "plume",
+      "rarity": 5,
+      "mainStatKey": "atk",
+      "level": 0,
+      "substats": [
+        {
+          "key": "eleMas",
+          "value": 19.0
+        },
+        {
+          "key": "atk_",
+          "value": 5.3
+        },
+        {
+          "key": "critRate_",
+          "value": 2.7
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 31
+    },
+    {
+      "setKey": "Gambler",
+      "slotKey": "sands",
+      "rarity": 5,
+      "mainStatKey": "atk_",
+      "level": 0,
+      "substats": [
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": "enerRech_",
+          "value": 6.5
+        },
+        {
+          "key": "def",
+          "value": 21.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 32
+    },
+    {
+      "setKey": "ShimenawasReminiscence",
+      "slotKey": "sands",
+      "rarity": 5,
+      "mainStatKey": "def_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "hp",
+          "value": 299.0
+        },
+        {
+          "key": "critDMG_",
+          "value": 5.4
+        },
+        {
+          "key": "enerRech_",
+          "value": 5.2
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 33
+    },
+    {
+      "setKey": "ShimenawasReminiscence",
+      "slotKey": "sands",
+      "rarity": 5,
+      "mainStatKey": "enerRech_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "eleMas",
+          "value": 23.0
+        },
+        {
+          "key": "critDMG_",
+          "value": 7.8
+        },
+        {
+          "key": "critRate_",
+          "value": 2.7
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 34
+    },
+    {
+      "setKey": "ShimenawasReminiscence",
+      "slotKey": "sands",
+      "rarity": 5,
+      "mainStatKey": "hp_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "atk",
+          "value": 16.0
+        },
+        {
+          "key": "def",
+          "value": 21.0
+        },
+        {
+          "key": "critDMG_",
+          "value": 7.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 35
+    },
+    {
+      "setKey": "ShimenawasReminiscence",
+      "slotKey": "goblet",
+      "rarity": 5,
+      "mainStatKey": "def_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "hp_",
+          "value": 4.1
+        },
+        {
+          "key": "atk",
+          "value": 18.0
+        },
+        {
+          "key": "def",
+          "value": 16.0
+        },
+        {
+          "key": "hp",
+          "value": 209.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 36
+    },
+    {
+      "setKey": "ShimenawasReminiscence",
+      "slotKey": "goblet",
+      "rarity": 5,
+      "mainStatKey": "anemo_dmg_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "hp",
+          "value": 269.0
+        },
+        {
+          "key": "atk",
+          "value": 18.0
+        },
+        {
+          "key": "def",
+          "value": 21.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 37
+    },
+    {
+      "setKey": "ShimenawasReminiscence",
+      "slotKey": "circlet",
+      "rarity": 5,
+      "mainStatKey": "critDMG_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "hp",
+          "value": 239.0
+        },
+        {
+          "key": "def",
+          "value": 19.0
+        },
+        {
+          "key": "def_",
+          "value": 6.6
+        },
+        {
+          "key": "atk",
+          "value": 16.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 38
+    },
+    {
+      "setKey": "ShimenawasReminiscence",
+      "slotKey": "circlet",
+      "rarity": 5,
+      "mainStatKey": "def_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "hp",
+          "value": 239.0
+        },
+        {
+          "key": "def",
+          "value": 23.0
+        },
+        {
+          "key": "critDMG_",
+          "value": 7.8
+        },
+        {
+          "key": "eleMas",
+          "value": 21.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 39
+    },
+    {
+      "setKey": "ShimenawasReminiscence",
+      "slotKey": "circlet",
+      "rarity": 5,
+      "mainStatKey": "hp_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "atk",
+          "value": 14.0
+        },
+        {
+          "key": "def",
+          "value": 16.0
+        },
+        {
+          "key": "critRate_",
+          "value": 3.5
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 40
+    },
+    {
+      "setKey": "ShimenawasReminiscence",
+      "slotKey": "circlet",
+      "rarity": 5,
+      "mainStatKey": "heal_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "def",
+          "value": 16.0
+        },
+        {
+          "key": "eleMas",
+          "value": 16.0
+        },
+        {
+          "key": "critDMG_",
+          "value": 7.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 41
+    },
+    {
+      "setKey": "ShimenawasReminiscence",
+      "slotKey": "circlet",
+      "rarity": 5,
+      "mainStatKey": "hp_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "def",
+          "value": 16.0
+        },
+        {
+          "key": "atk_",
+          "value": 5.3
+        },
+        {
+          "key": "enerRech_",
+          "value": 5.2
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "Diona",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 42
+    },
+    {
+      "setKey": "PaleFlame",
+      "slotKey": "plume",
+      "rarity": 5,
+      "mainStatKey": "atk",
+      "level": 0,
+      "substats": [
+        {
+          "key": "def",
+          "value": 21.0
+        },
+        {
+          "key": "hp",
+          "value": 299.0
+        },
+        {
+          "key": "critRate_",
+          "value": 3.9
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 43
+    },
+    {
+      "setKey": "PaleFlame",
+      "slotKey": "plume",
+      "rarity": 5,
+      "mainStatKey": "atk",
+      "level": 0,
+      "substats": [
+        {
+          "key": "critRate_",
+          "value": 3.1
+        },
+        {
+          "key": "def_",
+          "value": 7.3
+        },
+        {
+          "key": "def",
+          "value": 21.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 44
+    },
+    {
+      "setKey": "PaleFlame",
+      "slotKey": "plume",
+      "rarity": 5,
+      "mainStatKey": "atk",
+      "level": 0,
+      "substats": [
+        {
+          "key": "eleMas",
+          "value": 16.0
+        },
+        {
+          "key": "atk_",
+          "value": 4.1
+        },
+        {
+          "key": "def",
+          "value": 21.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 45
+    },
+    {
+      "setKey": "PaleFlame",
+      "slotKey": "goblet",
+      "rarity": 5,
+      "mainStatKey": "hp_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "critRate_",
+          "value": 2.7
+        },
+        {
+          "key": "critDMG_",
+          "value": 7.8
+        },
+        {
+          "key": "def_",
+          "value": 5.8
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 46
+    },
+    {
+      "setKey": "PaleFlame",
+      "slotKey": "goblet",
+      "rarity": 5,
+      "mainStatKey": "hp_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "def_",
+          "value": 7.3
+        },
+        {
+          "key": "critDMG_",
+          "value": 6.2
+        },
+        {
+          "key": "critRate_",
+          "value": 3.9
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 47
+    },
+    {
+      "setKey": "PaleFlame",
+      "slotKey": "goblet",
+      "rarity": 5,
+      "mainStatKey": "hp_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "atk",
+          "value": 18.0
+        },
+        {
+          "key": "critDMG_",
+          "value": 6.2
+        },
+        {
+          "key": "atk_",
+          "value": 5.3
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 48
+    },
+    {
+      "setKey": "PaleFlame",
+      "slotKey": "goblet",
+      "rarity": 5,
+      "mainStatKey": "def_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "atk",
+          "value": 16.0
+        },
+        {
+          "key": "hp_",
+          "value": 5.3
+        },
+        {
+          "key": "hp",
+          "value": 299.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 49
+    },
+    {
+      "setKey": "PaleFlame",
+      "slotKey": "goblet",
+      "rarity": 5,
+      "mainStatKey": "def_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "hp",
+          "value": 299.0
+        },
+        {
+          "key": "atk",
+          "value": 19.0
+        },
+        {
+          "key": "critRate_",
+          "value": 3.5
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 50
+    },
+    {
+      "setKey": "PaleFlame",
+      "slotKey": "circlet",
+      "rarity": 5,
+      "mainStatKey": "eleMas",
+      "level": 0,
+      "substats": [
+        {
+          "key": "def_",
+          "value": 6.6
+        },
+        {
+          "key": "atk",
+          "value": 16.0
+        },
+        {
+          "key": "atk_",
+          "value": 5.8
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 51
+    },
+    {
+      "setKey": "PaleFlame",
+      "slotKey": "circlet",
+      "rarity": 5,
+      "mainStatKey": "hp_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "critRate_",
+          "value": 2.7
+        },
+        {
+          "key": "critDMG_",
+          "value": 5.4
+        },
+        {
+          "key": "atk",
+          "value": 14.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 52
+    },
+    {
+      "setKey": "TenacityOfTheMillelith",
+      "slotKey": "flower",
+      "rarity": 5,
+      "mainStatKey": "hp",
+      "level": 0,
+      "substats": [
+        {
+          "key": "def",
+          "value": 21.0
+        },
+        {
+          "key": "enerRech_",
+          "value": 5.8
+        },
+        {
+          "key": "critDMG_",
+          "value": 6.2
+        },
+        {
+          "key": "eleMas",
+          "value": 16.0
+        }
+      ],
+      "location": "",
+      "lock": true,
+      "SubStatsCount": 4,
+      "Id": 53
+    },
+    {
+      "setKey": "TenacityOfTheMillelith",
+      "slotKey": "goblet",
+      "rarity": 5,
+      "mainStatKey": "eleMas",
+      "level": 0,
+      "substats": [
+        {
+          "key": "def",
+          "value": 19.0
+        },
+        {
+          "key": "def_",
+          "value": 5.8
+        },
+        {
+          "key": "atk_",
+          "value": 5.8
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 55
+    },
+    {
+      "setKey": "TenacityOfTheMillelith",
+      "slotKey": "plume",
+      "rarity": 5,
+      "mainStatKey": "atk",
+      "level": 0,
+      "substats": [
+        {
+          "key": "critRate_",
+          "value": 2.7
+        },
+        {
+          "key": "enerRech_",
+          "value": 4.5
+        },
+        {
+          "key": "critDMG_",
+          "value": 5.4
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": true,
+      "SubStatsCount": 4,
+      "Id": 54
+    },
+    {
+      "setKey": "BloodstainedChivalry",
+      "slotKey": "flower",
+      "rarity": 5,
+      "mainStatKey": "hp",
+      "level": 0,
+      "substats": [
+        {
+          "key": "atk_",
+          "value": 5.8
+        },
+        {
+          "key": "def",
+          "value": 23.0
+        },
+        {
+          "key": "eleMas",
+          "value": 16.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 56
+    },
+    {
+      "setKey": "BloodstainedChivalry",
+      "slotKey": "flower",
+      "rarity": 5,
+      "mainStatKey": "hp",
+      "level": 0,
+      "substats": [
+        {
+          "key": "eleMas",
+          "value": 19.0
+        },
+        {
+          "key": "def_",
+          "value": 5.1
+        },
+        {
+          "key": "atk_",
+          "value": 5.8
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 57
+    },
+    {
+      "setKey": "BloodstainedChivalry",
+      "slotKey": "flower",
+      "rarity": 5,
+      "mainStatKey": "hp",
+      "level": 0,
+      "substats": [
+        {
+          "key": "eleMas",
+          "value": 23.0
+        },
+        {
+          "key": "atk_",
+          "value": 5.8
+        },
+        {
+          "key": "enerRech_",
+          "value": 5.2
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 58
+    },
+    {
+      "setKey": "BloodstainedChivalry",
+      "slotKey": "plume",
+      "rarity": 5,
+      "mainStatKey": "atk",
+      "level": 0,
+      "substats": [
+        {
+          "key": "enerRech_",
+          "value": 4.5
+        },
+        {
+          "key": "eleMas",
+          "value": 19.0
+        },
+        {
+          "key": "def_",
+          "value": 5.1
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 59
+    },
+    {
+      "setKey": "BloodstainedChivalry",
+      "slotKey": "plume",
+      "rarity": 5,
+      "mainStatKey": "atk",
+      "level": 0,
+      "substats": [
+        {
+          "key": "def",
+          "value": 21.0
+        },
+        {
+          "key": "enerRech_",
+          "value": 6.5
+        },
+        {
+          "key": "hp_",
+          "value": 4.7
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 60
+    },
+    {
+      "setKey": "BloodstainedChivalry",
+      "slotKey": "sands",
+      "rarity": 5,
+      "mainStatKey": "hp_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "hp",
+          "value": 269.0
+        },
+        {
+          "key": "atk_",
+          "value": 4.1
+        },
+        {
+          "key": "critRate_",
+          "value": 3.5
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 61
+    },
+    {
+      "setKey": "BloodstainedChivalry",
+      "slotKey": "goblet",
+      "rarity": 5,
+      "mainStatKey": "atk_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "eleMas",
+          "value": 23.0
+        },
+        {
+          "key": "critRate_",
+          "value": 3.5
+        },
+        {
+          "key": "enerRech_",
+          "value": 5.2
+        },
+        {
+          "key": "def",
+          "value": 23.0
+        }
+      ],
+      "location": "",
+      "lock": true,
+      "SubStatsCount": 4,
+      "Id": 62
+    },
+    {
+      "setKey": "BloodstainedChivalry",
+      "slotKey": "goblet",
+      "rarity": 5,
+      "mainStatKey": "def_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "hp_",
+          "value": 4.1
+        },
+        {
+          "key": "critRate_",
+          "value": 3.9
+        },
+        {
+          "key": "hp",
+          "value": 209.0
+        },
+        {
+          "key": "def",
+          "value": 21.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 63
+    },
+    {
+      "setKey": "BloodstainedChivalry",
+      "slotKey": "goblet",
+      "rarity": 5,
+      "mainStatKey": "atk_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "enerRech_",
+          "value": 5.8
+        },
+        {
+          "key": "hp",
+          "value": 239.0
+        },
+        {
+          "key": "def",
+          "value": 23.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 64
+    },
+    {
+      "setKey": "BloodstainedChivalry",
+      "slotKey": "goblet",
+      "rarity": 5,
+      "mainStatKey": "def_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "def",
+          "value": 23.0
+        },
+        {
+          "key": "atk",
+          "value": 16.0
+        },
+        {
+          "key": "atk_",
+          "value": 4.1
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 65
+    },
+    {
+      "setKey": "BloodstainedChivalry",
+      "slotKey": "goblet",
+      "rarity": 5,
+      "mainStatKey": "pyro_dmg_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "critDMG_",
+          "value": 6.2
+        },
+        {
+          "key": "def_",
+          "value": 7.3
+        },
+        {
+          "key": "eleMas",
+          "value": 16.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 66
+    },
+    {
+      "setKey": "NoblesseOblige",
+      "slotKey": "flower",
+      "rarity": 5,
+      "mainStatKey": "hp",
+      "level": 0,
+      "substats": [
+        {
+          "key": "def_",
+          "value": 7.3
+        },
+        {
+          "key": "eleMas",
+          "value": 21.0
+        },
+        {
+          "key": "atk",
+          "value": 16.0
+        },
+        {
+          "key": "hp_",
+          "value": 4.1
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 67
+    },
+    {
+      "setKey": "NoblesseOblige",
+      "slotKey": "flower",
+      "rarity": 5,
+      "mainStatKey": "hp",
+      "level": 0,
+      "substats": [
+        {
+          "key": "def",
+          "value": 16.0
+        },
+        {
+          "key": "critRate_",
+          "value": 3.1
+        },
+        {
+          "key": "atk",
+          "value": 14.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "Bennett",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 68
+    },
+    {
+      "setKey": "NoblesseOblige",
+      "slotKey": "flower",
+      "rarity": 5,
+      "mainStatKey": "hp",
+      "level": 0,
+      "substats": [
+        {
+          "key": "def",
+          "value": 19.0
+        },
+        {
+          "key": "atk_",
+          "value": 5.3
+        },
+        {
+          "key": "atk",
+          "value": 14.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 69
+    },
+    {
+      "setKey": "Adventurer",
+      "slotKey": "plume",
+      "rarity": 5,
+      "mainStatKey": "atk",
+      "level": 0,
+      "substats": [
+        {
+          "key": "def",
+          "value": 21.0
+        },
+        {
+          "key": "def_",
+          "value": 5.1
+        },
+        {
+          "key": "eleMas",
+          "value": 23.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 70
+    },
+    {
+      "setKey": "Adventurer",
+      "slotKey": "plume",
+      "rarity": 5,
+      "mainStatKey": "atk",
+      "level": 0,
+      "substats": [
+        {
+          "key": "enerRech_",
+          "value": 4.5
+        },
+        {
+          "key": "hp_",
+          "value": 4.7
+        },
+        {
+          "key": "def_",
+          "value": 5.1
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 71
+    },
+    {
+      "setKey": "Adventurer",
+      "slotKey": "plume",
+      "rarity": 5,
+      "mainStatKey": "atk",
+      "level": 0,
+      "substats": [
+        {
+          "key": "hp",
+          "value": 299.0
+        },
+        {
+          "key": "critDMG_",
+          "value": 7.0
+        },
+        {
+          "key": "atk_",
+          "value": 5.3
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "Bennett",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 72
+    },
+    {
+      "setKey": "Adventurer",
+      "slotKey": "plume",
+      "rarity": 5,
+      "mainStatKey": "atk",
+      "level": 0,
+      "substats": [
+        {
+          "key": "hp_",
+          "value": 4.1
+        },
+        {
+          "key": "def_",
+          "value": 5.8
+        },
+        {
+          "key": "eleMas",
+          "value": 19.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 73
+    },
+    {
+      "setKey": "NoblesseOblige",
+      "slotKey": "sands",
+      "rarity": 5,
+      "mainStatKey": "eleMas",
+      "level": 0,
+      "substats": [
+        {
+          "key": "atk",
+          "value": 16.0
+        },
+        {
+          "key": "enerRech_",
+          "value": 5.2
+        },
+        {
+          "key": "hp",
+          "value": 209.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 74
+    },
+    {
+      "setKey": "NoblesseOblige",
+      "slotKey": "goblet",
+      "rarity": 5,
+      "mainStatKey": "atk_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "hp",
+          "value": 269.0
+        },
+        {
+          "key": "enerRech_",
+          "value": 6.5
+        },
+        {
+          "key": "def",
+          "value": 21.0
+        },
+        {
+          "key": "eleMas",
+          "value": 19.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 75
+    },
+    {
+      "setKey": "NoblesseOblige",
+      "slotKey": "goblet",
+      "rarity": 5,
+      "mainStatKey": "hydro_dmg_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "enerRech_",
+          "value": 5.8
+        },
+        {
+          "key": "critDMG_",
+          "value": 5.4
+        },
+        {
+          "key": "eleMas",
+          "value": 21.0
+        },
+        {
+          "key": "atk_",
+          "value": 5.3
+        }
+      ],
+      "location": "",
+      "lock": true,
+      "SubStatsCount": 4,
+      "Id": 76
+    },
+    {
+      "setKey": "NoblesseOblige",
+      "slotKey": "goblet",
+      "rarity": 5,
+      "mainStatKey": "atk_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "hp_",
+          "value": 4.1
+        },
+        {
+          "key": "hp",
+          "value": 299.0
+        },
+        {
+          "key": "def",
+          "value": 23.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 77
+    },
+    {
+      "setKey": "Adventurer",
+      "slotKey": "goblet",
+      "rarity": 5,
+      "mainStatKey": "hp_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "atk_",
+          "value": 4.1
+        },
+        {
+          "key": "critDMG_",
+          "value": 7.0
+        },
+        {
+          "key": "eleMas",
+          "value": 16.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "Bennett",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 78
+    },
+    {
+      "setKey": "NoblesseOblige",
+      "slotKey": "circlet",
+      "rarity": 5,
+      "mainStatKey": "def_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "atk_",
+          "value": 4.1
+        },
+        {
+          "key": "atk",
+          "value": 19.0
+        },
+        {
+          "key": "def",
+          "value": 23.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 79
+    },
+    {
+      "setKey": "WanderersTroupe",
+      "slotKey": "flower",
+      "rarity": 5,
+      "mainStatKey": "hp",
+      "level": 0,
+      "substats": [
+        {
+          "key": "def",
+          "value": 21.0
+        },
+        {
+          "key": "atk",
+          "value": 14.0
+        },
+        {
+          "key": "hp_",
+          "value": 4.7
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 80
+    },
+    {
+      "setKey": "WanderersTroupe",
+      "slotKey": "flower",
+      "rarity": 5,
+      "mainStatKey": "hp",
+      "level": 0,
+      "substats": [
+        {
+          "key": "atk",
+          "value": 19.0
+        },
+        {
+          "key": "eleMas",
+          "value": 16.0
+        },
+        {
+          "key": "def",
+          "value": 21.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 81
+    },
+    {
+      "setKey": "WanderersTroupe",
+      "slotKey": "plume",
+      "rarity": 5,
+      "mainStatKey": "atk",
+      "level": 0,
+      "substats": [
+        {
+          "key": "enerRech_",
+          "value": 6.5
+        },
+        {
+          "key": "critRate_",
+          "value": 3.5
+        },
+        {
+          "key": "hp_",
+          "value": 4.7
+        },
+        {
+          "key": "def_",
+          "value": 7.3
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 82
+    },
+    {
+      "setKey": "WanderersTroupe",
+      "slotKey": "sands",
+      "rarity": 5,
+      "mainStatKey": "eleMas",
+      "level": 0,
+      "substats": [
+        {
+          "key": "critDMG_",
+          "value": 7.0
+        },
+        {
+          "key": "hp_",
+          "value": 5.3
+        },
+        {
+          "key": "atk_",
+          "value": 4.1
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 83
+    },
+    {
+      "setKey": "WanderersTroupe",
+      "slotKey": "sands",
+      "rarity": 5,
+      "mainStatKey": "atk_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "atk",
+          "value": 19.0
+        },
+        {
+          "key": "def",
+          "value": 19.0
+        },
+        {
+          "key": "hp_",
+          "value": 4.1
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 84
+    },
+    {
+      "setKey": "WanderersTroupe",
+      "slotKey": "goblet",
+      "rarity": 5,
+      "mainStatKey": "physical_dmg_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "critDMG_",
+          "value": 7.0
+        },
+        {
+          "key": "critRate_",
+          "value": 3.9
+        },
+        {
+          "key": "hp",
+          "value": 269.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 85
+    },
+    {
+      "setKey": "WanderersTroupe",
+      "slotKey": "goblet",
+      "rarity": 5,
+      "mainStatKey": "hydro_dmg_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "atk",
+          "value": 18.0
+        },
+        {
+          "key": "def",
+          "value": 16.0
+        },
+        {
+          "key": "hp",
+          "value": 269.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 86
+    },
+    {
+      "setKey": "WanderersTroupe",
+      "slotKey": "circlet",
+      "rarity": 5,
+      "mainStatKey": "critRate_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "def",
+          "value": 21.0
+        },
+        {
+          "key": "atk_",
+          "value": 4.7
+        },
+        {
+          "key": "atk",
+          "value": 16.0
+        },
+        {
+          "key": "critDMG_",
+          "value": 5.4
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 87
+    },
+    {
+      "setKey": "GladiatorsFinale",
+      "slotKey": "flower",
+      "rarity": 5,
+      "mainStatKey": "hp",
+      "level": 0,
+      "substats": [
+        {
+          "key": "enerRech_",
+          "value": 5.2
+        },
+        {
+          "key": "hp_",
+          "value": 4.1
+        },
+        {
+          "key": "def",
+          "value": 19.0
+        },
+        {
+          "key": "atk_",
+          "value": 4.7
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 88
+    },
+    {
+      "setKey": "GladiatorsFinale",
+      "slotKey": "flower",
+      "rarity": 5,
+      "mainStatKey": "hp",
+      "level": 0,
+      "substats": [
+        {
+          "key": "eleMas",
+          "value": 21.0
+        },
+        {
+          "key": "critRate_",
+          "value": 3.5
+        },
+        {
+          "key": "critDMG_",
+          "value": 5.4
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 89
+    },
+    {
+      "setKey": "GladiatorsFinale",
+      "slotKey": "plume",
+      "rarity": 5,
+      "mainStatKey": "atk",
+      "level": 0,
+      "substats": [
+        {
+          "key": "hp",
+          "value": 299.0
+        },
+        {
+          "key": "critDMG_",
+          "value": 7.0
+        },
+        {
+          "key": "def",
+          "value": 16.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 90
+    },
+    {
+      "setKey": "GladiatorsFinale",
+      "slotKey": "goblet",
+      "rarity": 5,
+      "mainStatKey": "hydro_dmg_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "eleMas",
+          "value": 21.0
+        },
+        {
+          "key": "hp",
+          "value": 269.0
+        },
+        {
+          "key": "hp_",
+          "value": 4.7
+        },
+        {
+          "key": "atk_",
+          "value": 5.3
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 92
+    },
+    {
+      "setKey": "GladiatorsFinale",
+      "slotKey": "sands",
+      "rarity": 5,
+      "mainStatKey": "atk_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "critRate_",
+          "value": 2.7
+        },
+        {
+          "key": "enerRech_",
+          "value": 5.8
+        },
+        {
+          "key": "def",
+          "value": 23.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 91
+    },
+    {
+      "setKey": "GladiatorsFinale",
+      "slotKey": "goblet",
+      "rarity": 5,
+      "mainStatKey": "def_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "atk",
+          "value": 18.0
+        },
+        {
+          "key": "critRate_",
+          "value": 3.9
+        },
+        {
+          "key": "enerRech_",
+          "value": 6.5
+        },
+        {
+          "key": "critDMG_",
+          "value": 5.4
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 93
+    },
+    {
+      "setKey": "GladiatorsFinale",
+      "slotKey": "goblet",
+      "rarity": 5,
+      "mainStatKey": "def_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "enerRech_",
+          "value": 5.8
+        },
+        {
+          "key": "hp",
+          "value": 239.0
+        },
+        {
+          "key": "atk_",
+          "value": 4.7
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 94
+    },
+    {
+      "setKey": "GladiatorsFinale",
+      "slotKey": "circlet",
+      "rarity": 5,
+      "mainStatKey": "hp_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "def",
+          "value": 23.0
+        },
+        {
+          "key": "atk",
+          "value": 19.0
+        },
+        {
+          "key": "critDMG_",
+          "value": 7.8
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 95
+    },
+    {
+      "setKey": "Lavawalker",
+      "slotKey": "flower",
+      "rarity": 5,
+      "mainStatKey": "hp",
+      "level": 0,
+      "substats": [
+        {
+          "key": "critRate_",
+          "value": 3.1
+        },
+        {
+          "key": "eleMas",
+          "value": 23.0
+        },
+        {
+          "key": "def_",
+          "value": 7.3
+        },
+        {
+          "key": "atk",
+          "value": 16.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 96
+    },
+    {
+      "setKey": "Lavawalker",
+      "slotKey": "plume",
+      "rarity": 5,
+      "mainStatKey": "atk",
+      "level": 0,
+      "substats": [
+        {
+          "key": "def",
+          "value": 21.0
+        },
+        {
+          "key": "hp",
+          "value": 299.0
+        },
+        {
+          "key": "eleMas",
+          "value": 16.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 97
+    },
+    {
+      "setKey": "Lavawalker",
+      "slotKey": "sands",
+      "rarity": 5,
+      "mainStatKey": "atk_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "critDMG_",
+          "value": 5.4
+        },
+        {
+          "key": "enerRech_",
+          "value": 6.5
+        },
+        {
+          "key": "atk",
+          "value": 14.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 98
+    },
+    {
+      "setKey": "CrimsonWitchOfFlames",
+      "slotKey": "sands",
+      "rarity": 4,
+      "mainStatKey": "atk_",
+      "level": 16,
+      "substats": [
+        {
+          "key": "eleMas",
+          "value": 19.0
+        },
+        {
+          "key": "hp_",
+          "value": 8.9
+        },
+        {
+          "key": "def",
+          "value": 33.0
+        },
+        {
+          "key": "atk",
+          "value": 12.0
+        }
+      ],
+      "location": "Yoimiya",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 99
+    },
+    {
+      "setKey": "GladiatorsFinale",
+      "slotKey": "circlet",
+      "rarity": 4,
+      "mainStatKey": "atk_",
+      "level": 16,
+      "substats": [
+        {
+          "key": "hp_",
+          "value": 4.2
+        },
+        {
+          "key": "atk",
+          "value": 26.0
+        },
+        {
+          "key": "def",
+          "value": 28.0
+        },
+        {
+          "key": "critRate_",
+          "value": 2.2
+        }
+      ],
+      "location": "Keqing",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 100
+    },
+    {
+      "setKey": "GladiatorsFinale",
+      "slotKey": "circlet",
+      "rarity": 4,
+      "mainStatKey": "atk_",
+      "level": 16,
+      "substats": [
+        {
+          "key": "critRate_",
+          "value": 2.5
+        },
+        {
+          "key": "atk",
+          "value": 11.0
+        },
+        {
+          "key": "enerRech_",
+          "value": 7.8
+        },
+        {
+          "key": "hp",
+          "value": 478.0
+        }
+      ],
+      "location": "RaidenShogun",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 101
+    },
+    {
+      "setKey": "GladiatorsFinale",
+      "slotKey": "sands",
+      "rarity": 4,
+      "mainStatKey": "atk_",
+      "level": 14,
+      "substats": [
+        {
+          "key": "eleMas",
+          "value": 32.0
+        },
+        {
+          "key": "hp_",
+          "value": 3.7
+        },
+        {
+          "key": "atk",
+          "value": 12.0
+        },
+        {
+          "key": "def",
+          "value": 17.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 102
+    },
+    {
+      "setKey": "GladiatorsFinale",
+      "slotKey": "sands",
+      "rarity": 4,
+      "mainStatKey": "atk_",
+      "level": 14,
+      "substats": [
+        {
+          "key": "def",
+          "value": 13.0
+        },
+        {
+          "key": "hp_",
+          "value": 3.3
+        },
+        {
+          "key": "eleMas",
+          "value": 35.0
+        },
+        {
+          "key": "critRate_",
+          "value": 3.1
+        }
+      ],
+      "location": "Barbara",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 103
+    },
+    {
+      "setKey": "ShimenawasReminiscence",
+      "slotKey": "goblet",
+      "rarity": 4,
+      "mainStatKey": "pyro_dmg_",
+      "level": 12,
+      "substats": [
+        {
+          "key": "atk_",
+          "value": 7.0
+        },
+        {
+          "key": "critDMG_",
+          "value": 5.0
+        },
+        {
+          "key": "hp",
+          "value": 478.0
+        },
+        {
+          "key": "def_",
+          "value": 4.7
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 104
+    },
+    {
+      "setKey": "CrimsonWitchOfFlames",
+      "slotKey": "flower",
+      "rarity": 4,
+      "mainStatKey": "hp",
+      "level": 12,
+      "substats": [
+        {
+          "key": "enerRech_",
+          "value": 8.3
+        },
+        {
+          "key": "critDMG_",
+          "value": 10.0
+        },
+        {
+          "key": "def",
+          "value": 17.0
+        },
+        {
+          "key": "atk",
+          "value": 12.0
+        }
+      ],
+      "location": "Yanfei",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 105
+    },
+    {
+      "setKey": "Scholar",
+      "slotKey": "plume",
+      "rarity": 4,
+      "mainStatKey": "atk",
+      "level": 12,
+      "substats": [
+        {
+          "key": "enerRech_",
+          "value": 9.3
+        },
+        {
+          "key": "critRate_",
+          "value": 2.2
+        },
+        {
+          "key": "atk_",
+          "value": 3.3
+        },
+        {
+          "key": "critDMG_",
+          "value": 4.4
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 106
+    },
+    {
+      "setKey": "CrimsonWitchOfFlames",
+      "slotKey": "plume",
+      "rarity": 4,
+      "mainStatKey": "atk",
+      "level": 10,
+      "substats": [
+        {
+          "key": "def_",
+          "value": 4.1
+        },
+        {
+          "key": "eleMas",
+          "value": 17.0
+        },
+        {
+          "key": "critDMG_",
+          "value": 5.6
+        },
+        {
+          "key": "critRate_",
+          "value": 2.8
+        }
+      ],
+      "location": "Yanfei",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 107
+    },
+    {
+      "setKey": "ThunderingFury",
+      "slotKey": "goblet",
+      "rarity": 4,
+      "mainStatKey": "atk_",
+      "level": 8,
+      "substats": [
+        {
+          "key": "eleMas",
+          "value": 19.0
+        },
+        {
+          "key": "def",
+          "value": 19.0
+        },
+        {
+          "key": "def_",
+          "value": 4.7
+        },
+        {
+          "key": "atk",
+          "value": 16.0
+        }
+      ],
+      "location": "Chongyun",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 108
+    },
+    {
+      "setKey": "MartialArtist",
+      "slotKey": "goblet",
+      "rarity": 4,
+      "mainStatKey": "pyro_dmg_",
+      "level": 8,
+      "substats": [
+        {
+          "key": "eleMas",
+          "value": 13.0
+        },
+        {
+          "key": "atk_",
+          "value": 4.7
+        },
+        {
+          "key": "def_",
+          "value": 4.1
+        },
+        {
+          "key": "enerRech_",
+          "value": 4.1
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 109
+    },
+    {
+      "setKey": "Berserker",
+      "slotKey": "sands",
+      "rarity": 4,
+      "mainStatKey": "atk_",
+      "level": 8,
+      "substats": [
+        {
+          "key": "hp_",
+          "value": 3.3
+        },
+        {
+          "key": "hp",
+          "value": 167.0
+        },
+        {
+          "key": "atk",
+          "value": 16.0
+        },
+        {
+          "key": "enerRech_",
+          "value": 3.6
+        }
+      ],
+      "location": "Chongyun",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 110
+    },
+    {
+      "setKey": "Berserker",
+      "slotKey": "circlet",
+      "rarity": 4,
+      "mainStatKey": "atk_",
+      "level": 8,
+      "substats": [
+        {
+          "key": "hp",
+          "value": 191.0
+        },
+        {
+          "key": "def",
+          "value": 13.0
+        },
+        {
+          "key": "critRate_",
+          "value": 2.5
+        },
+        {
+          "key": "hp_",
+          "value": 4.7
+        }
+      ],
+      "location": "Chongyun",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 111
+    },
+    {
+      "setKey": "Instructor",
+      "slotKey": "sands",
+      "rarity": 4,
+      "mainStatKey": "atk_",
+      "level": 7,
+      "substats": [
+        {
+          "key": "enerRech_",
+          "value": 4.7
+        },
+        {
+          "key": "atk",
+          "value": 11.0
+        },
+        {
+          "key": "critRate_",
+          "value": 3.1
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "Sucrose",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 112
+    },
+    {
+      "setKey": "Berserker",
+      "slotKey": "plume",
+      "rarity": 4,
+      "mainStatKey": "atk",
+      "level": 7,
+      "substats": [
+        {
+          "key": "critDMG_",
+          "value": 5.0
+        },
+        {
+          "key": "def",
+          "value": 17.0
+        },
+        {
+          "key": "hp_",
+          "value": 4.2
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "Xingqiu",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 113
+    },
+    {
+      "setKey": "Instructor",
+      "slotKey": "plume",
+      "rarity": 4,
+      "mainStatKey": "atk",
+      "level": 5,
+      "substats": [
+        {
+          "key": "atk_",
+          "value": 4.7
+        },
+        {
+          "key": "def_",
+          "value": 4.1
+        },
+        {
+          "key": "hp_",
+          "value": 3.7
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "Sucrose",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 114
+    },
+    {
+      "setKey": "Instructor",
+      "slotKey": "plume",
+      "rarity": 4,
+      "mainStatKey": "atk",
+      "level": 5,
+      "substats": [
+        {
+          "key": "hp_",
+          "value": 4.2
+        },
+        {
+          "key": "critDMG_",
+          "value": 6.2
+        },
+        {
+          "key": "def",
+          "value": 19.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "Amber",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 115
+    },
+    {
+      "setKey": "TheExile",
+      "slotKey": "flower",
+      "rarity": 4,
+      "mainStatKey": "hp",
+      "level": 4,
+      "substats": [
+        {
+          "key": "atk",
+          "value": 16.0
+        },
+        {
+          "key": "hp_",
+          "value": 3.3
+        },
+        {
+          "key": "enerRech_",
+          "value": 4.1
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "Barbara",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 116
+    },
+    {
+      "setKey": "Instructor",
+      "slotKey": "goblet",
+      "rarity": 4,
+      "mainStatKey": "atk_",
+      "level": 4,
+      "substats": [
+        {
+          "key": "def",
+          "value": 19.0
+        },
+        {
+          "key": "critDMG_",
+          "value": 4.4
+        },
+        {
+          "key": "hp",
+          "value": 167.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "Sucrose",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 117
+    },
+    {
+      "setKey": "Berserker",
+      "slotKey": "sands",
+      "rarity": 4,
+      "mainStatKey": "atk_",
+      "level": 4,
+      "substats": [
+        {
+          "key": "critDMG_",
+          "value": 4.4
+        },
+        {
+          "key": "eleMas",
+          "value": 15.0
+        },
+        {
+          "key": "hp",
+          "value": 167.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "Xingqiu",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 118
+    },
+    {
+      "setKey": "Berserker",
+      "slotKey": "circlet",
+      "rarity": 4,
+      "mainStatKey": "atk_",
+      "level": 4,
+      "substats": [
+        {
+          "key": "eleMas",
+          "value": 15.0
+        },
+        {
+          "key": "critDMG_",
+          "value": 4.4
+        },
+        {
+          "key": "hp_",
+          "value": 3.7
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "Xingqiu",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 119
+    },
+    {
+      "setKey": "Instructor",
+      "slotKey": "sands",
+      "rarity": 4,
+      "mainStatKey": "hp_",
+      "level": 3,
+      "substats": [
+        {
+          "key": "enerRech_",
+          "value": 5.2
+        },
+        {
+          "key": "hp",
+          "value": 239.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "Diona",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 120
+    },
+    {
+      "setKey": "TheExile",
+      "slotKey": "circlet",
+      "rarity": 4,
+      "mainStatKey": "hp_",
+      "level": 2,
+      "substats": [
+        {
+          "key": "atk_",
+          "value": 4.7
+        },
+        {
+          "key": "critRate_",
+          "value": 2.5
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "Barbara",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 121
+    },
+    {
+      "setKey": "EmblemOfSeveredFate",
+      "slotKey": "flower",
+      "rarity": 4,
+      "mainStatKey": "hp",
+      "level": 0,
+      "substats": [
+        {
+          "key": "def",
+          "value": 13.0
+        },
+        {
+          "key": "def_",
+          "value": 4.1
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 122
+    },
+    {
+      "setKey": "EmblemOfSeveredFate",
+      "slotKey": "plume",
+      "rarity": 4,
+      "mainStatKey": "atk",
+      "level": 0,
+      "substats": [
+        {
+          "key": "def_",
+          "value": 5.8
+        },
+        {
+          "key": "critDMG_",
+          "value": 4.4
+        },
+        {
+          "key": "atk_",
+          "value": 4.2
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 123
+    },
+    {
+      "setKey": "EmblemOfSeveredFate",
+      "slotKey": "plume",
+      "rarity": 4,
+      "mainStatKey": "atk",
+      "level": 0,
+      "substats": [
+        {
+          "key": "enerRech_",
+          "value": 3.6
+        },
+        {
+          "key": "hp",
+          "value": 215.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 124
+    },
+    {
+      "setKey": "EmblemOfSeveredFate",
+      "slotKey": "sands",
+      "rarity": 4,
+      "mainStatKey": "def_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "critRate_",
+          "value": 2.5
+        },
+        {
+          "key": "hp",
+          "value": 167.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 125
+    },
+    {
+      "setKey": "EmblemOfSeveredFate",
+      "slotKey": "goblet",
+      "rarity": 4,
+      "mainStatKey": "def_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "hp_",
+          "value": 4.2
+        },
+        {
+          "key": "atk",
+          "value": 12.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 126
+    },
+    {
+      "setKey": "EmblemOfSeveredFate",
+      "slotKey": "goblet",
+      "rarity": 4,
+      "mainStatKey": "geo_dmg_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "enerRech_",
+          "value": 5.2
+        },
+        {
+          "key": "hp_",
+          "value": 3.7
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 127
+    },
+    {
+      "setKey": "EmblemOfSeveredFate",
+      "slotKey": "circlet",
+      "rarity": 4,
+      "mainStatKey": "heal_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "def",
+          "value": 19.0
+        },
+        {
+          "key": "def_",
+          "value": 5.3
+        },
+        {
+          "key": "enerRech_",
+          "value": 4.1
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 128
+    },
+    {
+      "setKey": "EmblemOfSeveredFate",
+      "slotKey": "circlet",
+      "rarity": 4,
+      "mainStatKey": "critDMG_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "hp",
+          "value": 215.0
+        },
+        {
+          "key": "eleMas",
+          "value": 17.0
+        },
+        {
+          "key": "def",
+          "value": 15.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 129
+    },
+    {
+      "setKey": "EmblemOfSeveredFate",
+      "slotKey": "circlet",
+      "rarity": 4,
+      "mainStatKey": "heal_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "hp",
+          "value": 191.0
+        },
+        {
+          "key": "critRate_",
+          "value": 2.2
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 130
+    },
+    {
+      "setKey": "ShimenawasReminiscence",
+      "slotKey": "circlet",
+      "rarity": 4,
+      "mainStatKey": "critDMG_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "def",
+          "value": 13.0
+        },
+        {
+          "key": "atk_",
+          "value": 3.3
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "Yoimiya",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 131
+    },
+    {
+      "setKey": "PaleFlame",
+      "slotKey": "flower",
+      "rarity": 4,
+      "mainStatKey": "hp",
+      "level": 0,
+      "substats": [
+        {
+          "key": "enerRech_",
+          "value": 4.7
+        },
+        {
+          "key": "critDMG_",
+          "value": 4.4
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 132
+    },
+    {
+      "setKey": "PaleFlame",
+      "slotKey": "plume",
+      "rarity": 4,
+      "mainStatKey": "atk",
+      "level": 0,
+      "substats": [
+        {
+          "key": "def",
+          "value": 19.0
+        },
+        {
+          "key": "eleMas",
+          "value": 19.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 133
+    },
+    {
+      "setKey": "PaleFlame",
+      "slotKey": "plume",
+      "rarity": 4,
+      "mainStatKey": "atk",
+      "level": 0,
+      "substats": [
+        {
+          "key": "hp",
+          "value": 167.0
+        },
+        {
+          "key": "atk_",
+          "value": 3.7
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 135
+    },
+    {
+      "setKey": "PaleFlame",
+      "slotKey": "plume",
+      "rarity": 4,
+      "mainStatKey": "atk",
+      "level": 0,
+      "substats": [
+        {
+          "key": "hp",
+          "value": 215.0
+        },
+        {
+          "key": "critRate_",
+          "value": 3.1
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 134
+    },
+    {
+      "setKey": "PaleFlame",
+      "slotKey": "plume",
+      "rarity": 4,
+      "mainStatKey": "atk",
+      "level": 0,
+      "substats": [
+        {
+          "key": "hp",
+          "value": 191.0
+        },
+        {
+          "key": "def",
+          "value": 17.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 136
+    },
+    {
+      "setKey": "PaleFlame",
+      "slotKey": "plume",
+      "rarity": 4,
+      "mainStatKey": "atk",
+      "level": 0,
+      "substats": [
+        {
+          "key": "hp_",
+          "value": 4.2
+        },
+        {
+          "key": "critDMG_",
+          "value": 5.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 137
+    },
+    {
+      "setKey": "PaleFlame",
+      "slotKey": "plume",
+      "rarity": 4,
+      "mainStatKey": "atk",
+      "level": 0,
+      "substats": [
+        {
+          "key": "atk_",
+          "value": 4.2
+        },
+        {
+          "key": "eleMas",
+          "value": 17.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 138
+    },
+    {
+      "setKey": "PaleFlame",
+      "slotKey": "sands",
+      "rarity": 4,
+      "mainStatKey": "enerRech_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "eleMas",
+          "value": 19.0
+        },
+        {
+          "key": "atk",
+          "value": 12.0
+        },
+        {
+          "key": "critRate_",
+          "value": 3.1
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 139
+    },
+    {
+      "setKey": "PaleFlame",
+      "slotKey": "sands",
+      "rarity": 4,
+      "mainStatKey": "atk_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "def_",
+          "value": 5.3
+        },
+        {
+          "key": "critRate_",
+          "value": 3.1
+        },
+        {
+          "key": "enerRech_",
+          "value": 4.1
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 140
+    },
+    {
+      "setKey": "PaleFlame",
+      "slotKey": "sands",
+      "rarity": 4,
+      "mainStatKey": "hp_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "hp",
+          "value": 167.0
+        },
+        {
+          "key": "atk",
+          "value": 12.0
+        },
+        {
+          "key": "def",
+          "value": 15.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 141
+    },
+    {
+      "setKey": "PaleFlame",
+      "slotKey": "sands",
+      "rarity": 4,
+      "mainStatKey": "eleMas",
+      "level": 0,
+      "substats": [
+        {
+          "key": "critRate_",
+          "value": 3.1
+        },
+        {
+          "key": "atk",
+          "value": 12.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 142
+    },
+    {
+      "setKey": "PaleFlame",
+      "slotKey": "sands",
+      "rarity": 4,
+      "mainStatKey": "def_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "atk",
+          "value": 16.0
+        },
+        {
+          "key": "atk_",
+          "value": 3.3
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 143
+    },
+    {
+      "setKey": "PaleFlame",
+      "slotKey": "goblet",
+      "rarity": 4,
+      "mainStatKey": "def_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "atk_",
+          "value": 3.3
+        },
+        {
+          "key": "hp_",
+          "value": 4.7
+        },
+        {
+          "key": "def",
+          "value": 19.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 144
+    },
+    {
+      "setKey": "PaleFlame",
+      "slotKey": "circlet",
+      "rarity": 4,
+      "mainStatKey": "critRate_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "def_",
+          "value": 4.1
+        },
+        {
+          "key": "def",
+          "value": 13.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 145
+    },
+    {
+      "setKey": "PaleFlame",
+      "slotKey": "circlet",
+      "rarity": 4,
+      "mainStatKey": "critRate_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "def_",
+          "value": 5.8
+        },
+        {
+          "key": "enerRech_",
+          "value": 4.7
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 146
+    },
+    {
+      "setKey": "TenacityOfTheMillelith",
+      "slotKey": "flower",
+      "rarity": 4,
+      "mainStatKey": "hp",
+      "level": 0,
+      "substats": [
+        {
+          "key": "eleMas",
+          "value": 15.0
+        },
+        {
+          "key": "atk_",
+          "value": 3.3
+        },
+        {
+          "key": "critDMG_",
+          "value": 5.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 147
+    },
+    {
+      "setKey": "TenacityOfTheMillelith",
+      "slotKey": "flower",
+      "rarity": 4,
+      "mainStatKey": "hp",
+      "level": 0,
+      "substats": [
+        {
+          "key": "critDMG_",
+          "value": 4.4
+        },
+        {
+          "key": "atk",
+          "value": 11.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 149
+    },
+    {
+      "setKey": "TenacityOfTheMillelith",
+      "slotKey": "flower",
+      "rarity": 4,
+      "mainStatKey": "hp",
+      "level": 0,
+      "substats": [
+        {
+          "key": "def",
+          "value": 13.0
+        },
+        {
+          "key": "def_",
+          "value": 4.7
+        },
+        {
+          "key": "critRate_",
+          "value": 2.8
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 148
+    },
+    {
+      "setKey": "TenacityOfTheMillelith",
+      "slotKey": "plume",
+      "rarity": 4,
+      "mainStatKey": "atk",
+      "level": 0,
+      "substats": [
+        {
+          "key": "critDMG_",
+          "value": 5.0
+        },
+        {
+          "key": "eleMas",
+          "value": 19.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 150
+    },
+    {
+      "setKey": "TenacityOfTheMillelith",
+      "slotKey": "plume",
+      "rarity": 4,
+      "mainStatKey": "atk",
+      "level": 0,
+      "substats": [
+        {
+          "key": "def",
+          "value": 17.0
+        },
+        {
+          "key": "atk_",
+          "value": 4.2
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 151
+    },
+    {
+      "setKey": "TenacityOfTheMillelith",
+      "slotKey": "sands",
+      "rarity": 4,
+      "mainStatKey": "atk_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "hp",
+          "value": 167.0
+        },
+        {
+          "key": "hp_",
+          "value": 3.7
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 153
+    },
+    {
+      "setKey": "TenacityOfTheMillelith",
+      "slotKey": "sands",
+      "rarity": 4,
+      "mainStatKey": "enerRech_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "critRate_",
+          "value": 2.8
+        },
+        {
+          "key": "hp",
+          "value": 215.0
+        },
+        {
+          "key": "eleMas",
+          "value": 17.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 152
+    },
+    {
+      "setKey": "TenacityOfTheMillelith",
+      "slotKey": "sands",
+      "rarity": 4,
+      "mainStatKey": "hp_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "atk",
+          "value": 11.0
+        },
+        {
+          "key": "def_",
+          "value": 4.1
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 154
+    },
+    {
+      "setKey": "TenacityOfTheMillelith",
+      "slotKey": "sands",
+      "rarity": 4,
+      "mainStatKey": "hp_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "enerRech_",
+          "value": 3.6
+        },
+        {
+          "key": "hp",
+          "value": 215.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 155
+    },
+    {
+      "setKey": "TenacityOfTheMillelith",
+      "slotKey": "sands",
+      "rarity": 4,
+      "mainStatKey": "hp_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "hp",
+          "value": 167.0
+        },
+        {
+          "key": "atk",
+          "value": 12.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 156
+    },
+    {
+      "setKey": "TenacityOfTheMillelith",
+      "slotKey": "goblet",
+      "rarity": 4,
+      "mainStatKey": "physical_dmg_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "hp_",
+          "value": 3.3
+        },
+        {
+          "key": "enerRech_",
+          "value": 3.6
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 157
+    },
+    {
+      "setKey": "TenacityOfTheMillelith",
+      "slotKey": "circlet",
+      "rarity": 4,
+      "mainStatKey": "atk_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "critRate_",
+          "value": 2.8
+        },
+        {
+          "key": "eleMas",
+          "value": 19.0
+        },
+        {
+          "key": "atk",
+          "value": 16.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 158
+    },
+    {
+      "setKey": "TenacityOfTheMillelith",
+      "slotKey": "circlet",
+      "rarity": 4,
+      "mainStatKey": "critDMG_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "def_",
+          "value": 5.3
+        },
+        {
+          "key": "atk",
+          "value": 16.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 159
+    },
+    {
+      "setKey": "TenacityOfTheMillelith",
+      "slotKey": "circlet",
+      "rarity": 4,
+      "mainStatKey": "hp_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "enerRech_",
+          "value": 3.6
+        },
+        {
+          "key": "atk",
+          "value": 14.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 160
+    },
+    {
+      "setKey": "BloodstainedChivalry",
+      "slotKey": "flower",
+      "rarity": 4,
+      "mainStatKey": "hp",
+      "level": 0,
+      "substats": [
+        {
+          "key": "atk",
+          "value": 14.0
+        },
+        {
+          "key": "def_",
+          "value": 4.1
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 161
+    },
+    {
+      "setKey": "BloodstainedChivalry",
+      "slotKey": "flower",
+      "rarity": 4,
+      "mainStatKey": "hp",
+      "level": 0,
+      "substats": [
+        {
+          "key": "atk",
+          "value": 11.0
+        },
+        {
+          "key": "def",
+          "value": 17.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 162
+    },
+    {
+      "setKey": "BloodstainedChivalry",
+      "slotKey": "flower",
+      "rarity": 4,
+      "mainStatKey": "hp",
+      "level": 0,
+      "substats": [
+        {
+          "key": "atk",
+          "value": 11.0
+        },
+        {
+          "key": "hp_",
+          "value": 4.2
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 163
+    },
+    {
+      "setKey": "BloodstainedChivalry",
+      "slotKey": "plume",
+      "rarity": 4,
+      "mainStatKey": "atk",
+      "level": 0,
+      "substats": [
+        {
+          "key": "def_",
+          "value": 4.1
+        },
+        {
+          "key": "eleMas",
+          "value": 15.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 164
+    },
+    {
+      "setKey": "BloodstainedChivalry",
+      "slotKey": "plume",
+      "rarity": 4,
+      "mainStatKey": "atk",
+      "level": 0,
+      "substats": [
+        {
+          "key": "critRate_",
+          "value": 2.8
+        },
+        {
+          "key": "def_",
+          "value": 5.8
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 165
+    },
+    {
+      "setKey": "BloodstainedChivalry",
+      "slotKey": "goblet",
+      "rarity": 4,
+      "mainStatKey": "hp_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "atk",
+          "value": 12.0
+        },
+        {
+          "key": "def_",
+          "value": 4.7
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 166
+    },
+    {
+      "setKey": "BloodstainedChivalry",
+      "slotKey": "circlet",
+      "rarity": 4,
+      "mainStatKey": "atk_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "def",
+          "value": 15.0
+        },
+        {
+          "key": "hp",
+          "value": 215.0
+        },
+        {
+          "key": "atk",
+          "value": 11.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 167
+    },
+    {
+      "setKey": "BloodstainedChivalry",
+      "slotKey": "circlet",
+      "rarity": 4,
+      "mainStatKey": "hp_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "hp",
+          "value": 167.0
+        },
+        {
+          "key": "enerRech_",
+          "value": 5.2
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 168
+    },
+    {
+      "setKey": "Adventurer",
+      "slotKey": "flower",
+      "rarity": 4,
+      "mainStatKey": "hp",
+      "level": 0,
+      "substats": [
+        {
+          "key": "atk",
+          "value": 14.0
+        },
+        {
+          "key": "def",
+          "value": 15.0
+        },
+        {
+          "key": "critDMG_",
+          "value": 5.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 169
+    },
+    {
+      "setKey": "NoblesseOblige",
+      "slotKey": "flower",
+      "rarity": 4,
+      "mainStatKey": "hp",
+      "level": 0,
+      "substats": [
+        {
+          "key": "hp_",
+          "value": 3.3
+        },
+        {
+          "key": "def_",
+          "value": 4.1
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 170
+    },
+    {
+      "setKey": "NoblesseOblige",
+      "slotKey": "flower",
+      "rarity": 4,
+      "mainStatKey": "hp",
+      "level": 0,
+      "substats": [
+        {
+          "key": "enerRech_",
+          "value": 3.6
+        },
+        {
+          "key": "critDMG_",
+          "value": 5.6
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 171
+    },
+    {
+      "setKey": "NoblesseOblige",
+      "slotKey": "flower",
+      "rarity": 4,
+      "mainStatKey": "hp",
+      "level": 0,
+      "substats": [
+        {
+          "key": "def",
+          "value": 13.0
+        },
+        {
+          "key": "atk_",
+          "value": 3.3
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 172
+    },
+    {
+      "setKey": "NoblesseOblige",
+      "slotKey": "flower",
+      "rarity": 4,
+      "mainStatKey": "hp",
+      "level": 0,
+      "substats": [
+        {
+          "key": "enerRech_",
+          "value": 4.1
+        },
+        {
+          "key": "atk_",
+          "value": 3.3
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 173
+    },
+    {
+      "setKey": "Adventurer",
+      "slotKey": "plume",
+      "rarity": 4,
+      "mainStatKey": "atk",
+      "level": 0,
+      "substats": [
+        {
+          "key": "hp",
+          "value": 167.0
+        },
+        {
+          "key": "eleMas",
+          "value": 19.0
+        },
+        {
+          "key": "critRate_",
+          "value": 2.5
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 174
+    },
+    {
+      "setKey": "NoblesseOblige",
+      "slotKey": "plume",
+      "rarity": 4,
+      "mainStatKey": "atk",
+      "level": 0,
+      "substats": [
+        {
+          "key": "def_",
+          "value": 5.3
+        },
+        {
+          "key": "critDMG_",
+          "value": 6.2
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 175
+    },
+    {
+      "setKey": "NoblesseOblige",
+      "slotKey": "plume",
+      "rarity": 4,
+      "mainStatKey": "atk",
+      "level": 0,
+      "substats": [
+        {
+          "key": "atk_",
+          "value": 4.7
+        },
+        {
+          "key": "critRate_",
+          "value": 2.8
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 176
+    },
+    {
+      "setKey": "NoblesseOblige",
+      "slotKey": "plume",
+      "rarity": 4,
+      "mainStatKey": "atk",
+      "level": 0,
+      "substats": [
+        {
+          "key": "critRate_",
+          "value": 2.5
+        },
+        {
+          "key": "hp",
+          "value": 239.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 177
+    },
+    {
+      "setKey": "NoblesseOblige",
+      "slotKey": "sands",
+      "rarity": 4,
+      "mainStatKey": "enerRech_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "critDMG_",
+          "value": 5.0
+        },
+        {
+          "key": "atk",
+          "value": 14.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 178
+    },
+    {
+      "setKey": "NoblesseOblige",
+      "slotKey": "circlet",
+      "rarity": 4,
+      "mainStatKey": "def_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "def",
+          "value": 13.0
+        },
+        {
+          "key": "eleMas",
+          "value": 19.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 179
+    },
+    {
+      "setKey": "NoblesseOblige",
+      "slotKey": "circlet",
+      "rarity": 4,
+      "mainStatKey": "critDMG_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "hp_",
+          "value": 4.2
+        },
+        {
+          "key": "def",
+          "value": 15.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 180
+    },
+    {
+      "setKey": "CrimsonWitchOfFlames",
+      "slotKey": "sands",
+      "rarity": 4,
+      "mainStatKey": "atk_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "hp",
+          "value": 239.0
+        },
+        {
+          "key": "eleMas",
+          "value": 15.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "Yanfei",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 181
+    },
+    {
+      "setKey": "CrimsonWitchOfFlames",
+      "slotKey": "circlet",
+      "rarity": 4,
+      "mainStatKey": "eleMas",
+      "level": 0,
+      "substats": [
+        {
+          "key": "def",
+          "value": 13.0
+        },
+        {
+          "key": "def_",
+          "value": 5.3
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "Yanfei",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 182
+    },
+    {
+      "setKey": "GladiatorsFinale",
+      "slotKey": "flower",
+      "rarity": 4,
+      "mainStatKey": "hp",
+      "level": 0,
+      "substats": [
+        {
+          "key": "atk_",
+          "value": 4.2
+        },
+        {
+          "key": "hp_",
+          "value": 4.2
+        },
+        {
+          "key": "critRate_",
+          "value": 2.8
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "Chongyun",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 183
+    },
+    {
+      "setKey": "GladiatorsFinale",
+      "slotKey": "flower",
+      "rarity": 4,
+      "mainStatKey": "hp",
+      "level": 0,
+      "substats": [
+        {
+          "key": "eleMas",
+          "value": 15.0
+        },
+        {
+          "key": "critDMG_",
+          "value": 4.4
+        },
+        {
+          "key": "atk",
+          "value": 11.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "Keqing",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 184
+    },
+    {
+      "setKey": "GladiatorsFinale",
+      "slotKey": "plume",
+      "rarity": 4,
+      "mainStatKey": "atk",
+      "level": 0,
+      "substats": [
+        {
+          "key": "critDMG_",
+          "value": 4.4
+        },
+        {
+          "key": "hp",
+          "value": 215.0
+        },
+        {
+          "key": "eleMas",
+          "value": 17.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 185
+    },
+    {
+      "setKey": "GladiatorsFinale",
+      "slotKey": "plume",
+      "rarity": 4,
+      "mainStatKey": "atk",
+      "level": 0,
+      "substats": [
+        {
+          "key": "def_",
+          "value": 4.1
+        },
+        {
+          "key": "atk_",
+          "value": 4.2
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "Chongyun",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 186
+    },
+    {
+      "setKey": "MaidenBeloved",
+      "slotKey": "flower",
+      "rarity": 4,
+      "mainStatKey": "hp",
+      "level": 0,
+      "substats": [
+        {
+          "key": "hp_",
+          "value": 4.7
+        },
+        {
+          "key": "eleMas",
+          "value": 15.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "Diona",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 187
+    },
+    {
+      "setKey": "MaidenBeloved",
+      "slotKey": "goblet",
+      "rarity": 4,
+      "mainStatKey": "hp_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "critDMG_",
+          "value": 6.2
+        },
+        {
+          "key": "hp",
+          "value": 239.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "Diona",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 188
+    },
+    {
+      "setKey": "Lavawalker",
+      "slotKey": "goblet",
+      "rarity": 4,
+      "mainStatKey": "atk_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "def",
+          "value": 13.0
+        },
+        {
+          "key": "def_",
+          "value": 4.7
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "Xiangling",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 189
+    },
+    {
+      "setKey": "Scholar",
+      "slotKey": "flower",
+      "rarity": 4,
+      "mainStatKey": "hp",
+      "level": 0,
+      "substats": [
+        {
+          "key": "critRate_",
+          "value": 2.8
+        },
+        {
+          "key": "def_",
+          "value": 4.7
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 190
+    },
+    {
+      "setKey": "Scholar",
+      "slotKey": "plume",
+      "rarity": 4,
+      "mainStatKey": "atk",
+      "level": 0,
+      "substats": [
+        {
+          "key": "enerRech_",
+          "value": 4.1
+        },
+        {
+          "key": "hp_",
+          "value": 4.7
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 191
+    },
+    {
+      "setKey": "Scholar",
+      "slotKey": "sands",
+      "rarity": 4,
+      "mainStatKey": "def_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "def",
+          "value": 19.0
+        },
+        {
+          "key": "critRate_",
+          "value": 3.1
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 192
+    },
+    {
+      "setKey": "Scholar",
+      "slotKey": "goblet",
+      "rarity": 4,
+      "mainStatKey": "def_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "eleMas",
+          "value": 17.0
+        },
+        {
+          "key": "atk",
+          "value": 14.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 193
+    },
+    {
+      "setKey": "Scholar",
+      "slotKey": "goblet",
+      "rarity": 4,
+      "mainStatKey": "def_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "def",
+          "value": 15.0
+        },
+        {
+          "key": "hp",
+          "value": 191.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 194
+    },
+    {
+      "setKey": "Scholar",
+      "slotKey": "goblet",
+      "rarity": 4,
+      "mainStatKey": "atk_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "atk",
+          "value": 12.0
+        },
+        {
+          "key": "hp",
+          "value": 191.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "Xingqiu",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 195
+    },
+    {
+      "setKey": "Scholar",
+      "slotKey": "circlet",
+      "rarity": 4,
+      "mainStatKey": "eleMas",
+      "level": 0,
+      "substats": [
+        {
+          "key": "atk",
+          "value": 11.0
+        },
+        {
+          "key": "def_",
+          "value": 4.1
+        },
+        {
+          "key": "atk_",
+          "value": 4.2
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 196
+    },
+    {
+      "setKey": "TheExile",
+      "slotKey": "flower",
+      "rarity": 4,
+      "mainStatKey": "hp",
+      "level": 0,
+      "substats": [
+        {
+          "key": "def",
+          "value": 15.0
+        },
+        {
+          "key": "eleMas",
+          "value": 13.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "Sucrose",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 197
+    },
+    {
+      "setKey": "TheExile",
+      "slotKey": "sands",
+      "rarity": 4,
+      "mainStatKey": "atk_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "hp",
+          "value": 215.0
+        },
+        {
+          "key": "atk",
+          "value": 12.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 198
+    },
+    {
+      "setKey": "Gambler",
+      "slotKey": "flower",
+      "rarity": 4,
+      "mainStatKey": "hp",
+      "level": 0,
+      "substats": [
+        {
+          "key": "enerRech_",
+          "value": 3.6
+        },
+        {
+          "key": "eleMas",
+          "value": 13.0
+        },
+        {
+          "key": "def",
+          "value": 15.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 199
+    },
+    {
+      "setKey": "Gambler",
+      "slotKey": "plume",
+      "rarity": 4,
+      "mainStatKey": "atk",
+      "level": 0,
+      "substats": [
+        {
+          "key": "critDMG_",
+          "value": 5.0
+        },
+        {
+          "key": "atk_",
+          "value": 4.7
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 200
+    },
+    {
+      "setKey": "Gambler",
+      "slotKey": "plume",
+      "rarity": 4,
+      "mainStatKey": "atk",
+      "level": 0,
+      "substats": [
+        {
+          "key": "atk_",
+          "value": 3.3
+        },
+        {
+          "key": "hp",
+          "value": 239.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 201
+    },
+    {
+      "setKey": "Gambler",
+      "slotKey": "goblet",
+      "rarity": 4,
+      "mainStatKey": "atk_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "hp",
+          "value": 191.0
+        },
+        {
+          "key": "atk",
+          "value": 16.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 202
+    },
+    {
+      "setKey": "Gambler",
+      "slotKey": "circlet",
+      "rarity": 4,
+      "mainStatKey": "critRate_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "atk_",
+          "value": 4.2
+        },
+        {
+          "key": "atk",
+          "value": 12.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 203
+    },
+    {
+      "setKey": "Gambler",
+      "slotKey": "circlet",
+      "rarity": 4,
+      "mainStatKey": "heal_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "atk",
+          "value": 11.0
+        },
+        {
+          "key": "atk_",
+          "value": 4.2
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 204
+    },
+    {
+      "setKey": "Instructor",
+      "slotKey": "flower",
+      "rarity": 4,
+      "mainStatKey": "hp",
+      "level": 0,
+      "substats": [
+        {
+          "key": "eleMas",
+          "value": 19.0
+        },
+        {
+          "key": "critDMG_",
+          "value": 4.4
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "Xingqiu",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 205
+    },
+    {
+      "setKey": "Instructor",
+      "slotKey": "flower",
+      "rarity": 4,
+      "mainStatKey": "hp",
+      "level": 0,
+      "substats": [
+        {
+          "key": "atk_",
+          "value": 4.7
+        },
+        {
+          "key": "critDMG_",
+          "value": 5.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "Xiangling",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 206
+    },
+    {
+      "setKey": "Instructor",
+      "slotKey": "circlet",
+      "rarity": 4,
+      "mainStatKey": "critRate_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "def",
+          "value": 13.0
+        },
+        {
+          "key": "atk",
+          "value": 14.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "Sucrose",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 207
+    },
+    {
+      "setKey": "MartialArtist",
+      "slotKey": "flower",
+      "rarity": 4,
+      "mainStatKey": "hp",
+      "level": 0,
+      "substats": [
+        {
+          "key": "atk_",
+          "value": 3.7
+        },
+        {
+          "key": "enerRech_",
+          "value": 4.1
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 208
+    },
+    {
+      "setKey": "MartialArtist",
+      "slotKey": "plume",
+      "rarity": 4,
+      "mainStatKey": "atk",
+      "level": 0,
+      "substats": [
+        {
+          "key": "hp_",
+          "value": 4.2
+        },
+        {
+          "key": "hp",
+          "value": 167.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 209
+    },
+    {
+      "setKey": "MartialArtist",
+      "slotKey": "sands",
+      "rarity": 4,
+      "mainStatKey": "atk_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "hp",
+          "value": 191.0
+        },
+        {
+          "key": "def",
+          "value": 15.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 210
+    },
+    {
+      "setKey": "MartialArtist",
+      "slotKey": "goblet",
+      "rarity": 4,
+      "mainStatKey": "electro_dmg_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "atk",
+          "value": 11.0
+        },
+        {
+          "key": "hp",
+          "value": 239.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 211
+    },
+    {
+      "setKey": "MartialArtist",
+      "slotKey": "circlet",
+      "rarity": 4,
+      "mainStatKey": "def_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "atk",
+          "value": 12.0
+        },
+        {
+          "key": "eleMas",
+          "value": 19.0
+        },
+        {
+          "key": "critDMG_",
+          "value": 6.2
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 212
+    },
+    {
+      "setKey": "MartialArtist",
+      "slotKey": "circlet",
+      "rarity": 4,
+      "mainStatKey": "def_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "critRate_",
+          "value": 2.8
+        },
+        {
+          "key": "critDMG_",
+          "value": 5.6
+        },
+        {
+          "key": "hp_",
+          "value": 3.3
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 213
+    },
+    {
+      "setKey": "MartialArtist",
+      "slotKey": "circlet",
+      "rarity": 4,
+      "mainStatKey": "atk_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "atk",
+          "value": 14.0
+        },
+        {
+          "key": "hp_",
+          "value": 4.7
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 214
+    },
+    {
+      "setKey": "Berserker",
+      "slotKey": "circlet",
+      "rarity": 4,
+      "mainStatKey": "atk_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "critDMG_",
+          "value": 5.0
+        },
+        {
+          "key": "atk",
+          "value": 16.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 215
+    },
+    {
+      "setKey": "TinyMiracle",
+      "slotKey": "sands",
+      "rarity": 4,
+      "mainStatKey": "hp_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "atk_",
+          "value": 3.7
+        },
+        {
+          "key": "hp",
+          "value": 167.0
+        },
+        {
+          "key": "enerRech_",
+          "value": 4.1
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 216
+    },
+    {
+      "setKey": "TinyMiracle",
+      "slotKey": "sands",
+      "rarity": 4,
+      "mainStatKey": "hp_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "atk",
+          "value": 14.0
+        },
+        {
+          "key": "hp",
+          "value": 215.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 217
+    },
+    {
+      "setKey": "BraveHeart",
+      "slotKey": "flower",
+      "rarity": 4,
+      "mainStatKey": "hp",
+      "level": 0,
+      "substats": [
+        {
+          "key": "def",
+          "value": 13.0
+        },
+        {
+          "key": "hp_",
+          "value": 3.7
+        },
+        {
+          "key": "eleMas",
+          "value": 19.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 218
+    },
+    {
+      "setKey": "BraveHeart",
+      "slotKey": "plume",
+      "rarity": 4,
+      "mainStatKey": "atk",
+      "level": 0,
+      "substats": [
+        {
+          "key": "critRate_",
+          "value": 2.2
+        },
+        {
+          "key": "enerRech_",
+          "value": 5.2
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 219
+    },
+    {
+      "setKey": "BraveHeart",
+      "slotKey": "plume",
+      "rarity": 4,
+      "mainStatKey": "atk",
+      "level": 0,
+      "substats": [
+        {
+          "key": "hp_",
+          "value": 3.7
+        },
+        {
+          "key": "eleMas",
+          "value": 15.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 220
+    },
+    {
+      "setKey": "BraveHeart",
+      "slotKey": "plume",
+      "rarity": 4,
+      "mainStatKey": "atk",
+      "level": 0,
+      "substats": [
+        {
+          "key": "hp",
+          "value": 215.0
+        },
+        {
+          "key": "def_",
+          "value": 5.3
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 221
+    },
+    {
+      "setKey": "BraveHeart",
+      "slotKey": "goblet",
+      "rarity": 4,
+      "mainStatKey": "eleMas",
+      "level": 0,
+      "substats": [
+        {
+          "key": "critDMG_",
+          "value": 6.2
+        },
+        {
+          "key": "atk_",
+          "value": 4.7
+        },
+        {
+          "key": "atk",
+          "value": 11.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 222
+    },
+    {
+      "setKey": "BraveHeart",
+      "slotKey": "goblet",
+      "rarity": 4,
+      "mainStatKey": "def_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "def",
+          "value": 15.0
+        },
+        {
+          "key": "enerRech_",
+          "value": 5.2
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 223
+    },
+    {
+      "setKey": "BraveHeart",
+      "slotKey": "goblet",
+      "rarity": 4,
+      "mainStatKey": "hp_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "eleMas",
+          "value": 15.0
+        },
+        {
+          "key": "def_",
+          "value": 4.7
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 224
+    },
+    {
+      "setKey": "BraveHeart",
+      "slotKey": "circlet",
+      "rarity": 4,
+      "mainStatKey": "hp_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "enerRech_",
+          "value": 4.7
+        },
+        {
+          "key": "critRate_",
+          "value": 2.8
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 225
+    },
+    {
+      "setKey": "BraveHeart",
+      "slotKey": "circlet",
+      "rarity": 4,
+      "mainStatKey": "hp_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "eleMas",
+          "value": 13.0
+        },
+        {
+          "key": "hp",
+          "value": 167.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 226
+    },
+    {
+      "setKey": "ResolutionOfSojourner",
+      "slotKey": "flower",
+      "rarity": 4,
+      "mainStatKey": "hp",
+      "level": 0,
+      "substats": [
+        {
+          "key": "critRate_",
+          "value": 2.2
+        },
+        {
+          "key": "def",
+          "value": 17.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 227
+    },
+    {
+      "setKey": "ResolutionOfSojourner",
+      "slotKey": "sands",
+      "rarity": 4,
+      "mainStatKey": "hp_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "def",
+          "value": 17.0
+        },
+        {
+          "key": "eleMas",
+          "value": 15.0
+        },
+        {
+          "key": "hp",
+          "value": 239.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 228
+    },
+    {
+      "setKey": "ResolutionOfSojourner",
+      "slotKey": "goblet",
+      "rarity": 4,
+      "mainStatKey": "hp_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "hp",
+          "value": 215.0
+        },
+        {
+          "key": "critDMG_",
+          "value": 6.2
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 229
+    },
+    {
+      "setKey": "ResolutionOfSojourner",
+      "slotKey": "circlet",
+      "rarity": 4,
+      "mainStatKey": "def_",
+      "level": 0,
+      "substats": [
+        {
+          "key": "atk",
+          "value": 14.0
+        },
+        {
+          "key": "hp_",
+          "value": 3.7
+        },
+        {
+          "key": null,
+          "value": 0.0
+        },
+        {
+          "key": null,
+          "value": 0.0
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "SubStatsCount": 4,
+      "Id": 230
+    }
+  ],
+  "characters": [
+    {
+      "key": "Eula",
+      "level": 70,
+      "constellation": 0,
+      "ascension": 4,
+      "talent": {
+        "auto": 6,
+        "skill": 4,
+        "burst": 6
+      }
+    },
+    {
+      "key": "RaidenShogun",
+      "level": 80,
+      "constellation": 0,
+      "ascension": 5,
+      "talent": {
+        "auto": 5,
+        "skill": 6,
+        "burst": 5
+      }
+    },
+    {
+      "key": "Xingqiu",
+      "level": 60,
+      "constellation": 2,
+      "ascension": 4,
+      "talent": {
+        "auto": 4,
+        "skill": 2,
+        "burst": 4
+      }
+    },
+    {
+      "key": "Diona",
+      "level": 61,
+      "constellation": 6,
+      "ascension": 4,
+      "talent": {
+        "auto": 4,
+        "skill": 5,
+        "burst": 3
+      }
+    },
+    {
+      "key": "Yoimiya",
+      "level": 74,
+      "constellation": 0,
+      "ascension": 5,
+      "talent": {
+        "auto": 6,
+        "skill": 2,
+        "burst": 5
+      }
+    },
+    {
+      "key": "Keqing",
+      "level": 70,
+      "constellation": 0,
+      "ascension": 4,
+      "talent": {
+        "auto": 6,
+        "skill": 4,
+        "burst": 4
+      }
+    },
+    {
+      "key": "Klee",
+      "level": 70,
+      "constellation": 0,
+      "ascension": 4,
+      "talent": {
+        "auto": 6,
+        "skill": 4,
+        "burst": 4
+      }
+    },
+    {
+      "key": "Tartaglia",
+      "level": 60,
+      "constellation": 0,
+      "ascension": 3,
+      "talent": {
+        "auto": 3,
+        "skill": 1,
+        "burst": 1
+      }
+    },
+    {
+      "key": "Bennett",
+      "level": 60,
+      "constellation": 1,
+      "ascension": 4,
+      "talent": {
+        "auto": 1,
+        "skill": 1,
+        "burst": 6
+      }
+    },
+    {
+      "key": "Mona",
+      "level": 40,
+      "constellation": 0,
+      "ascension": 1,
+      "talent": {
+        "auto": 1,
+        "skill": 1,
+        "burst": 1
+      }
+    },
+    {
+      "key": "Sayu",
+      "level": 20,
+      "constellation": 3,
+      "ascension": 1,
+      "talent": {
+        "auto": 1,
+        "skill": 1,
+        "burst": 1
+      }
+    },
+    {
+      "key": "Yanfei",
+      "level": 70,
+      "constellation": 1,
+      "ascension": 4,
+      "talent": {
+        "auto": 6,
+        "skill": 5,
+        "burst": 4
+      }
+    },
+    {
+      "key": "Diluc",
+      "level": 50,
+      "constellation": 0,
+      "ascension": 3,
+      "talent": {
+        "auto": 1,
+        "skill": 1,
+        "burst": 1
+      }
+    },
+    {
+      "key": "Noelle",
+      "level": 50,
+      "constellation": 4,
+      "ascension": 3,
+      "talent": {
+        "auto": 2,
+        "skill": 2,
+        "burst": 2
+      }
+    },
+    {
+      "key": "Sucrose",
+      "level": 50,
+      "constellation": 3,
+      "ascension": 3,
+      "talent": {
+        "auto": 1,
+        "skill": 2,
+        "burst": 2
+      }
+    },
+    {
+      "key": "Rosaria",
+      "level": 50,
+      "constellation": 0,
+      "ascension": 3,
+      "talent": {
+        "auto": 1,
+        "skill": 1,
+        "burst": 1
+      }
+    },
+    {
+      "key": "Chongyun",
+      "level": 50,
+      "constellation": 3,
+      "ascension": 2,
+      "talent": {
+        "auto": 1,
+        "skill": 1,
+        "burst": 1
+      }
+    },
+    {
+      "key": "Razor",
+      "level": 50,
+      "constellation": 5,
+      "ascension": 3,
+      "talent": {
+        "auto": 1,
+        "skill": 1,
+        "burst": 1
+      }
+    },
+    {
+      "key": "Xiangling",
+      "level": 50,
+      "constellation": 6,
+      "ascension": 3,
+      "talent": {
+        "auto": 1,
+        "skill": 1,
+        "burst": 1
+      }
+    },
+    {
+      "key": "Barbara",
+      "level": 40,
+      "constellation": 1,
+      "ascension": 2,
+      "talent": {
+        "auto": 1,
+        "skill": 1,
+        "burst": 1
+      }
+    },
+    {
+      "key": "Amber",
+      "level": 39,
+      "constellation": 2,
+      "ascension": 1,
+      "talent": {
+        "auto": 1,
+        "skill": 1,
+        "burst": 1
+      }
+    },
+    {
+      "key": "Fischl",
+      "level": 31,
+      "constellation": 1,
+      "ascension": 1,
+      "talent": {
+        "auto": 1,
+        "skill": 1,
+        "burst": 1
+      }
+    },
+    {
+      "key": "Traveler",
+      "level": 20,
+      "constellation": 2,
+      "ascension": 1,
+      "talent": {
+        "auto": 1,
+        "skill": 1,
+        "burst": 1
+      }
+    },
+    {
+      "key": "Aloy",
+      "level": 20,
+      "constellation": 0,
+      "ascension": 1,
+      "talent": {
+        "auto": 1,
+        "skill": 1,
+        "burst": 1
+      }
+    },
+    {
+      "key": "Gorou",
+      "level": 20,
+      "constellation": 1,
+      "ascension": 1,
+      "talent": {
+        "auto": 1,
+        "skill": 1,
+        "burst": 1
+      }
+    },
+    {
+      "key": "Ningguang",
+      "level": 20,
+      "constellation": 1,
+      "ascension": 1,
+      "talent": {
+        "auto": 1,
+        "skill": 1,
+        "burst": 1
+      }
+    },
+    {
+      "key": "Kaeya",
+      "level": 20,
+      "constellation": 1,
+      "ascension": 1,
+      "talent": {
+        "auto": 1,
+        "skill": 1,
+        "burst": 1
+      }
+    },
+    {
+      "key": "KujouSara",
+      "level": 20,
+      "constellation": 2,
+      "ascension": 1,
+      "talent": {
+        "auto": 1,
+        "skill": 1,
+        "burst": 1
+      }
+    },
+    {
+      "key": "Beidou",
+      "level": 20,
+      "constellation": 5,
+      "ascension": 1,
+      "talent": {
+        "auto": 1,
+        "skill": 1,
+        "burst": 1
+      }
+    },
+    {
+      "key": "Lisa",
+      "level": 20,
+      "constellation": 0,
+      "ascension": 1,
+      "talent": {
+        "auto": 1,
+        "skill": 1,
+        "burst": 1
+      }
+    },
+    {
+      "key": "Thoma",
+      "level": 20,
+      "constellation": 3,
+      "ascension": 1,
+      "talent": {
+        "auto": 1,
+        "skill": 1,
+        "burst": 1
+      }
+    },
+    {
+      "key": "Xinyan",
+      "level": 20,
+      "constellation": 0,
+      "ascension": 1,
+      "talent": {
+        "auto": 1,
+        "skill": 1,
+        "burst": 1
+      }
+    }
+  ],
+  "materials": {
+    "FirWood": 12,
+    "YumemiruWood": 6,
+    "AraliaWood": 5,
+    "OtogiWood": 24,
+    "FragrantCedarWood": 1,
+    "BambooSegment": 5,
+    "SandbearerWood": 15,
+    "PineWood": 18,
+    "CuihuaWood": 29,
+    "BirchWood": 1,
+    "IronChunk": 87,
+    "WhiteIronChunk": 422,
+    "CrystalChunk": 621,
+    "MagicalCrystalChunk": 14,
+    "Starsilver": 9,
+    "NorthlanderBowBillet": 1,
+    "NorthlanderCatalystBillet": 2,
+    "FruitPasteBait": 95,
+    "RedrotBait": 10,
+    "FalseWormBait": 92,
+    "FakeFlyBait": 33,
+    "MistFlowerCorolla": 5,
+    "FlamingFlowerStamen": 1,
+    "ButterflyWings": 16,
+    "Frog": 19,
+    "LuminescentSpine": 8,
+    "LizardTail": 7,
+    "CrystalCore": 3,
+    "LoachPearl": 1,
+    "GlazeMedaka": 2,
+    "SweetFlowerMedaka": 2,
+    "AizenMedaka": 1,
+    "Dawncatcher": 1,
+    "GoldenKoi": 2,
+    "BrownShirakodai": 5,
+    "TeaColoredShirakodai": 0,
+    "RaimeiAngelfish": 1,
+    "Pufferfish": 0,
+    "Mushroom": 92,
+    "SweetFlower": 79,
+    "Carrot": 47,
+    "Radish": 145,
+    "Snapdragon": 2,
+    "Mint": 396,
+    "Wheat": 139,
+    "Cabbage": 130,
+    "Pinecone": 91,
+    "Berry": 54,
+    "CallaLily": 58,
+    "RawMeat": 7601,
+    "BirdEgg": 803,
+    "Matsutake": 604,
+    "Fowl": 330,
+    "Crab": 31,
+    "CrabRoe": 10,
+    "Salt": 136,
+    "Onion": 120,
+    "Pepper": 104,
+    "Milk": 122,
+    "Tomato": 135,
+    "Potato": 165,
+    "Fish": 10,
+    "Tofu": 60,
+    "Almond": 2,
+    "BambooShoot": 10,
+    "ChilledMeat": 51,
+    "UnagiMeat": 1,
+    "Seagrass": 151,
+    "LavenderMelon": 21,
+    "Flour": 7,
+    "Cream": 28,
+    "SmokedFowl": 20,
+    "Ham": 18,
+    "Sugar": 23,
+    "Cheese": 10,
+    "Bacon": 27,
+    "Sausage": 27,
+    "Wolfhook": 40,
+    "Valberry": 9,
+    "Cecilia": 28,
+    "WindwheelAster": 47,
+    "PhilanemoMushroom": 0,
+    "LotusHead": 411,
+    "JueyunChili": 18,
+    "FluorescentFungus": 21,
+    "AmakumoFruit": 11,
+    "SangoPearl": 6,
+    "SeaGanoderma": 16,
+    "NakuWeed": 13,
+    "Dendrobium": 21,
+    "SakuraBloom": 9,
+    "Onikabuto": 10,
+    "CorLapis": 12,
+    "DandelionSeed": 3,
+    "SmallLampGrass": 24,
+    "Qingxin": 46,
+    "GlazeLily": 18,
+    "SilkFlower": 41,
+    "NoctilucousJade": 12,
+    "HerosWit": 74,
+    "AdventurersExperience": 87,
+    "WanderersAdvice": 33,
+    "SlimeConcentrate": 2,
+    "SlimeSecretions": 12,
+    "SlimeCondensate": 109,
+    "OminousMask": 13,
+    "StainedMask": 4,
+    "DamagedMask": 16,
+    "ForbiddenCurseScroll": 2,
+    "SealedScroll": 9,
+    "DiviningScroll": 66,
+    "WeatheredArrowhead": 6,
+    "SharpArrowhead": 15,
+    "FirmArrowhead": 28,
+    "BlackCrystalHorn": 1,
+    "BlackBronzeHorn": 56,
+    "HeavyHorn": 24,
+    "LeyLineSprout": 2,
+    "DeadLeyLineLeaves": 11,
+    "DeadLeyLineBranch": 46,
+    "ChaosCore": 5,
+    "ChaosCircuit": 2,
+    "ChaosDevice": 10,
+    "MistGrassWick": 3,
+    "MistGrass": 6,
+    "MistGrassPollen": 8,
+    "InspectorsSacrificialKnife": 1,
+    "AgentsSacrificialKnife": 6,
+    "HuntersSacrificialKnife": 15,
+    "LieutenantsInsignia": 8,
+    "SergeantsInsignia": 15,
+    "RecruitsInsignia": 104,
+    "GoldenRavenInsignia": 3,
+    "SilverRavenInsignia": 5,
+    "TreasureHoarderInsignia": 42,
+    "EnergyNectar": 11,
+    "ShimmeringNectar": 2,
+    "WhopperflowerNectar": 30,
+    "FossilizedBoneShard": 11,
+    "SturdyBoneShard": 0,
+    "FragileBoneShard": 19,
+    "FamedHandguard": 5,
+    "KageuchiHandguard": 16,
+    "OldHandguard": 47,
+    "ChaosAxis": 9,
+    "ChaosGear": 20,
+    "PolarizingPrism": 3,
+    "CrystalPrism": 0,
+    "DismalPrism": 27,
+    "SpectralNucleus": 1,
+    "SpectralHeart": 4,
+    "SpectralHusk": 15,
+    "ConcealedTalon": 3,
+    "ConcealedUnguis": 10,
+    "ConcealedClaw": 41,
+    "TailOfBoreas": 1,
+    "RingOfBoreas": 1,
+    "SpiritLocketOfBoreas": 2,
+    "ShardOfAFoulLegacy": 2,
+    "ShadowOfTheWarrior": 1,
+    "HurricaneSeed": 3,
+    "LightningPrism": 9,
+    "HoarfrostCore": 2,
+    "EverflameSeed": 5,
+    "JuvenileJade": 9,
+    "CrystallineBloom": 1,
+    "MarionetteCore": 12,
+    "BrilliantDiamondGemstone": 6,
+    "BrilliantDiamondChunk": 9,
+    "BrilliantDiamondFragment": 9,
+    "AgnidusAgateSliver": 4,
+    "VarunadaLazuriteChunk": 1,
+    "VarunadaLazuriteFragment": 14,
+    "VarunadaLazuriteSliver": 36,
+    "VajradaAmethystFragment": 1,
+    "VajradaAmethystSliver": 29,
+    "VayudaTurquoiseChunk": 4,
+    "VayudaTurquoiseFragment": 6,
+    "VayudaTurquoiseSliver": 20,
+    "ShivadaJadeFragment": 8,
+    "ShivadaJadeSliver": 75,
+    "PrithivaTopazChunk": 4,
+    "PrithivaTopazFragment": 111,
+    "PrithivaTopazSliver": 53,
+    "PhilosophiesOfFreedom": 2,
+    "GuideToFreedom": 71,
+    "TeachingsOfFreedom": 6,
+    "PhilosophiesOfResistance": 5,
+    "GuideToResistance": 2,
+    "TeachingsOfResistance": 7,
+    "GuideToBallad": 44,
+    "TeachingsOfBallad": 38,
+    "GuideToProsperity": 22,
+    "TeachingsOfProsperity": 16,
+    "GuideToDiligence": 45,
+    "TeachingsOfDiligence": 30,
+    "GuideToGold": 1,
+    "TeachingsOfGold": 26,
+    "PhilosophiesOfTransience": 2,
+    "GuideToTransience": 7,
+    "TeachingsOfTransience": 13,
+    "GuideToElegance": 25,
+    "TeachingsOfElegance": 22,
+    "PhilosophiesOfLight": 5,
+    "GuideToLight": 0,
+    "TeachingsOfLight": 8,
+    "CrownOfInsight": 7,
+    "FragmentOfDecarabiansEpic": 4,
+    "DebrisOfDecarabiansCity": 16,
+    "TileOfDecarabiansTower": 2,
+    "BorealWolfsBrokenFang": 10,
+    "BorealWolfsCrackedTooth": 17,
+    "BorealWolfsMilkTooth": 0,
+    "ShacklesOfTheDandelionGladiator": 9,
+    "ChainsOfTheDandelionGladiator": 18,
+    "FettersOfTheDandelionGladiator": 1,
+    "DivineBodyFromGuyun": 1,
+    "RelicFromGuyun": 2,
+    "MaskOfTheWickedLieutenant": 2,
+    "MaskOfTheTigersBite": 0,
+    "MaskOfTheOneHorned": 24,
+    "MaskOfTheKijin": 0,
+    "NarukamisWisdom": 13,
+    "NarukamisJoy": 0,
+    "CoralBranchOfADistantSea": 5,
+    "JeweledBranchOfADistantSea": 0,
+    "GrainOfAerosiderite": 7,
+    "PieceOfAerosiderite": 0,
+    "MistVeiledLeadElixir": 3,
+    "MistVeiledMercuryElixir": 4,
+    "LuminousSandsFromGuyun": 9,
+    "LustrousStoneFromGuyun": 0
+  }
+}

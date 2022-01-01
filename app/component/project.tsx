@@ -1,4 +1,4 @@
-import { Badge, Box, Link, Stack, Text, Wrap } from "@chakra-ui/react";
+import { Badge, Box, Spacer, Stack, Text, Wrap } from "@chakra-ui/react";
 import React from "react";
 
 interface Props {
@@ -21,14 +21,20 @@ const tagColors = [
 ];
 
 const Project = (props: Props) => (
-  <Box p="5" borderRadius={4} borderWidth={1}>
-    <Stack gap={6}>
-      <Text textColor="blue.400">
-        <Link href={props.link ?? "#"} target="_blank">
-          {props.name}
-        </Link>
-      </Text>
-      <Text>{props.description}</Text>
+  <Box
+    borderRadius={4}
+    borderWidth={1}
+    as="a"
+    href={props.link}
+    target="_blank"
+    rel="noreferrer"
+  >
+    <Stack p="5" h="100%">
+      <Stack spacing="1" alignSelf="start">
+        <Text textColor="blue.400">{props.name}</Text>
+        <Text>{props.description}</Text>
+      </Stack>
+      <Spacer />
       <Wrap>
         {props.tags.map((tag, index) => (
           <Badge colorScheme={tagColors[index % tagColors.length]} key={tag}>

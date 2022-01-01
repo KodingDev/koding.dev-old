@@ -9,15 +9,15 @@ const PageHeader = () => {
     <>
       <Heading fontSize="5xl">Yo! I&apos;m Koding!</Heading>
       <Text fontSize="m" textColor="gray.600">
-        I&apos;m an experienced software engineer with 7+ years of experience in
-        the gaming industry.
+        An experienced software engineer with 7+ years of experience in the
+        gaming industry.
       </Text>
-      <HStack pt="4" gap="4">
-        <a href="https://github.com/Zerite" target="_blank" rel="noreferrer">
+      <HStack pt="4" spacing="4">
+        <a href="https://github.com/KodingDev" target="_blank" rel="noreferrer">
           <FaGithub size="25" />
         </a>
         <a
-          href="https://twitter.com/ZeriteDev"
+          href="https://twitter.com/KodingDev_"
           target="_blank"
           rel="noreferrer"
         >
@@ -29,16 +29,29 @@ const PageHeader = () => {
 };
 
 // TODO: Art page
-// TODO: Genshin pages
 const Index = () => (
   <Layout>
-    <HeaderNavBar>
+    <HeaderNavBar image="/assets/banner.webp">
       <PageHeader />
     </HeaderNavBar>
     <Box px={{ base: 12, xl: 24 }} py="12">
       <Heading fontSize="3xl">Projects</Heading>
-      <Text>Check out some of the cool stuff I&apos;m working on!</Text>
+      <Text>
+        Some of the projects & people I&apos;ve worked with in the past.
+      </Text>
       <SimpleGrid pt={4} columns={{ base: 1, md: 2, xl: 4 }} spacing={4}>
+        <Project
+          name="koding.dev"
+          description="This personal website! Written using Remix + Chakra in TS."
+          link="https://github.com/KodingDev/koding.dev"
+          tags={["Remix.run", "Chakra-UI", "TypeScript"]}
+        />
+        <Project
+          name="zerite.dev"
+          description="Corporate website for Zerite Development, built with Remix + Chakra."
+          link="https://zerite.dev"
+          tags={["Remix.run", "Chakra-UI", "TypeScript", "GitHub API"]}
+        />
         <Project
           name="JetBrains Copilot"
           description="IDE plugin for the IntelliJ platform which adds support for GitHub Copilot."
@@ -64,15 +77,8 @@ const Index = () => (
           tags={["Flutter", "Dart", "GraphQL", "OAuth2"]}
         />
         <Project
-          name="koding.dev"
-          description="Personal website, written using NextJS + Chakra in TS."
-          link="https://github.com/KodingDev/koding.dev"
-          tags={["Next.js", "Chakra-UI", "TypeScript"]}
-        />
-        <Project
           name="Lunar"
           description="A multipurpose, highly configurable Discord bot with a powerful web UI."
-          link=""
           tags={["Kotlin", "MongoDB", "Sentry", "Next.js", "Material UI"]}
         />
 
